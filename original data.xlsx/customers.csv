@@ -1,0 +1,701 @@
+customer_id,gender,age,city,loyalty_tier
+10001,M,39,London,Silver
+10002,M,33,New York,Bronze
+10003,M,41,Shanghai,Silver
+10004,M,50,Madrid,Silver
+10005,M,32,Manchester,Bronze
+10006,M,32,Rome,Bronze
+10007,F,50,New York,Silver
+10008,F,42,London,Gold
+10009,M,30,Tokyo,Silver
+10010,F,40,Bristol,Bronze
+10011,F,30,Manchester,Bronze
+10012,M,30,Berlin,Gold
+10013,F,37,London,Silver
+10014,M,18,Munich,Bronze
+10015,F,18,Shanghai,Silver
+10016,F,29,Madrid,Bronze
+10017,M,24,London,Silver
+10018,F,38,Manchester,Gold
+10019,M,25,Munich,Bronze
+10020,F,20,Bristol,Bronze
+10021,M,49,Shanghai,Bronze
+10022,M,32,Madrid,Silver
+10023,M,35,Bristol,Silver
+10024,F,20,Shanghai,Silver
+10025,M,29,Shanghai,Bronze
+10026,M,36,New York,Gold
+10027,F,23,Munich,Bronze
+10028,M,38,Madrid,Gold
+10029,F,28,New York,Silver
+10030,F,32,Shanghai,Silver
+10031,F,28,Bristol,Bronze
+10032,F,53,Tokyo,Silver
+10033,F,34,Berlin,Bronze
+10034,M,24,Rome,Silver
+10035,M,43,Manchester,Bronze
+10036,M,22,Shanghai,Silver
+10037,M,37,Munich,Bronze
+10038,F,18,Rome,Bronze
+10039,M,21,Shanghai,Silver
+10040,F,36,Shanghai,Bronze
+10041,F,42,Munich,Bronze
+10042,M,36,Tokyo,Gold
+10043,F,33,Rome,Gold
+10044,M,31,Shanghai,Bronze
+10045,M,20,Bristol,Bronze
+10046,M,27,Rome,Platinum
+10047,M,30,Madrid,Bronze
+10048,M,45,Manchester,Gold
+10049,F,38,New York,Bronze
+10050,M,18,Manchester,Silver
+10051,M,38,Rome,Gold
+10052,M,31,Shanghai,Silver
+10053,M,28,Los Angeles,Silver
+10054,F,41,New York,Gold
+10055,M,45,Tokyo,Bronze
+10056,F,44,Paris,Gold
+10057,F,26,Manchester,Bronze
+10058,M,31,Berlin,Bronze
+10059,M,38,Madrid,Bronze
+10060,M,44,Tokyo,Silver
+10061,M,30,Manchester,Gold
+10062,F,33,Manchester,Silver
+10063,F,23,Shanghai,Silver
+10064,M,23,Tokyo,Gold
+10065,F,43,New York,Gold
+10066,F,48,New York,Bronze
+10067,F,34,Berlin,Silver
+10068,F,45,Tokyo,Bronze
+10069,M,38,London,Silver
+10070,F,28,Manchester,Bronze
+10071,M,38,Rome,Silver
+10072,F,50,Bristol,Bronze
+10073,M,34,Manchester,Silver
+10074,M,50,London,Silver
+10075,M,18,Manchester,Gold
+10076,M,43,Bristol,Silver
+10077,F,35,New York,Gold
+10078,M,32,Bristol,Bronze
+10079,F,35,Los Angeles,Gold
+10080,F,18,Los Angeles,Silver
+10081,F,32,Bristol,Bronze
+10082,M,38,London,Silver
+10083,M,49,Tokyo,Bronze
+10084,M,29,Madrid,Silver
+10085,M,26,London,Platinum
+10086,M,29,Bristol,Bronze
+10087,M,44,Shanghai,Gold
+10088,F,38,Manchester,Gold
+10089,M,29,Madrid,Silver
+10090,M,40,Munich,Silver
+10091,F,35,Los Angeles,Bronze
+10092,F,44,New York,Bronze
+10093,M,27,Shanghai,Silver
+10094,F,31,Berlin,Gold
+10095,M,31,London,Silver
+10096,M,20,Manchester,Silver
+10097,F,37,Bristol,Gold
+10098,M,37,New York,Bronze
+10099,M,35,Paris,Gold
+10100,F,32,Madrid,Platinum
+10101,M,20,Shanghai,Gold
+10102,F,30,Shanghai,Bronze
+10103,M,31,Los Angeles,Bronze
+10104,M,26,Tokyo,Silver
+10105,F,33,Los Angeles,Silver
+10106,F,39,New York,Silver
+10107,F,53,Rome,Silver
+10108,M,36,Manchester,Silver
+10109,F,37,London,Bronze
+10110,M,34,Shanghai,Platinum
+10111,M,18,Tokyo,Silver
+10112,F,34,Rome,Bronze
+10113,M,35,Tokyo,Gold
+10114,M,59,Berlin,Silver
+10115,M,33,Munich,Bronze
+10116,F,38,Berlin,Gold
+10117,M,34,Berlin,Bronze
+10118,M,23,Shanghai,Bronze
+10119,F,46,Madrid,Silver
+10120,M,42,Bristol,Platinum
+10121,M,42,Munich,Bronze
+10122,F,25,Munich,Gold
+10123,M,49,Los Angeles,Bronze
+10124,M,20,Munich,Gold
+10125,F,40,New York,Bronze
+10126,F,56,Berlin,Bronze
+10127,M,25,New York,Bronze
+10128,M,29,Munich,Bronze
+10129,M,35,Los Angeles,Bronze
+10130,F,29,Shanghai,Platinum
+10131,F,19,London,Bronze
+10132,F,35,Bristol,Silver
+10133,F,24,London,Bronze
+10134,F,39,Berlin,Silver
+10135,F,25,Munich,Silver
+10136,M,50,Munich,Gold
+10137,M,27,Los Angeles,Bronze
+10138,F,31,London,Silver
+10139,M,43,Berlin,Silver
+10140,F,22,Madrid,Bronze
+10141,M,37,Tokyo,Gold
+10142,F,48,Shanghai,Silver
+10143,F,18,Tokyo,Bronze
+10144,M,36,New York,Silver
+10145,F,37,Shanghai,Silver
+10146,M,42,Madrid,Silver
+10147,F,22,Rome,Gold
+10148,F,21,Los Angeles,Bronze
+10149,F,40,Paris,Silver
+10150,M,37,Rome,Silver
+10151,M,37,Shanghai,Bronze
+10152,F,38,Manchester,Gold
+10153,M,28,Shanghai,Bronze
+10154,M,37,Bristol,Bronze
+10155,M,37,Paris,Silver
+10156,M,27,Paris,Silver
+10157,M,53,Tokyo,Silver
+10158,F,39,Munich,Bronze
+10159,M,23,Manchester,Gold
+10160,M,41,Bristol,Gold
+10161,F,25,London,Silver
+10162,M,42,Paris,Bronze
+10163,F,46,Shanghai,Silver
+10164,F,26,Paris,Silver
+10165,F,44,Rome,Silver
+10166,M,39,Tokyo,Gold
+10167,F,43,Los Angeles,Gold
+10168,F,53,Rome,Silver
+10169,M,32,Los Angeles,Silver
+10170,F,27,New York,Bronze
+10171,F,26,Rome,Bronze
+10172,M,26,New York,Bronze
+10173,M,34,Tokyo,Bronze
+10174,F,38,Munich,Bronze
+10175,F,37,Munich,Bronze
+10176,F,43,Munich,Gold
+10177,M,35,Madrid,Bronze
+10178,M,49,Berlin,Bronze
+10179,F,32,Munich,Silver
+10180,M,62,Paris,Bronze
+10181,F,41,Paris,Bronze
+10182,F,26,Shanghai,Silver
+10183,F,24,Tokyo,Bronze
+10184,F,39,Bristol,Platinum
+10185,M,32,Munich,Silver
+10186,M,42,Manchester,Silver
+10187,M,39,Paris,Bronze
+10188,F,34,Munich,Bronze
+10189,F,26,Berlin,Bronze
+10190,F,19,Los Angeles,Gold
+10191,F,30,Los Angeles,Gold
+10192,F,43,London,Silver
+10193,M,37,Berlin,Bronze
+10194,M,22,Shanghai,Bronze
+10195,M,36,New York,Bronze
+10196,M,38,Madrid,Bronze
+10197,M,26,Paris,Silver
+10198,M,36,Paris,Silver
+10199,F,35,Bristol,Silver
+10200,M,23,Bristol,Platinum
+10201,M,38,Madrid,Bronze
+10202,F,40,Madrid,Silver
+10203,F,45,Munich,Gold
+10204,M,45,Manchester,Silver
+10205,M,21,Manchester,Silver
+10206,F,25,Shanghai,Silver
+10207,M,40,Madrid,Gold
+10208,F,40,Rome,Silver
+10209,F,40,Manchester,Silver
+10210,F,73,London,Gold
+10211,F,40,Manchester,Silver
+10212,F,46,Shanghai,Gold
+10213,F,44,Tokyo,Bronze
+10214,M,41,Tokyo,Silver
+10215,F,31,Madrid,Gold
+10216,F,42,Paris,Silver
+10217,F,27,Berlin,Gold
+10218,M,32,Los Angeles,Gold
+10219,M,30,Paris,Silver
+10220,F,35,Berlin,Bronze
+10221,F,58,Bristol,Silver
+10222,F,18,Los Angeles,Bronze
+10223,F,41,Rome,Bronze
+10224,M,18,Manchester,Bronze
+10225,F,30,Paris,Silver
+10226,M,45,Tokyo,Silver
+10227,F,35,Paris,Gold
+10228,M,24,Los Angeles,Bronze
+10229,M,27,Los Angeles,Silver
+10230,F,41,Paris,Silver
+10231,F,27,Munich,Platinum
+10232,F,37,Berlin,Silver
+10233,F,35,Los Angeles,Bronze
+10234,M,28,Tokyo,Bronze
+10235,M,56,Tokyo,Silver
+10236,M,41,New York,Bronze
+10237,F,18,Los Angeles,Silver
+10238,F,36,Manchester,Gold
+10239,F,28,New York,Bronze
+10240,F,43,London,Silver
+10241,M,27,Los Angeles,Bronze
+10242,M,33,Rome,Bronze
+10243,M,40,Shanghai,Gold
+10244,F,43,Manchester,Gold
+10245,F,22,Paris,Silver
+10246,F,31,Bristol,Platinum
+10247,F,30,Paris,Bronze
+10248,M,28,Munich,Silver
+10249,M,52,Bristol,Bronze
+10250,F,39,Manchester,Platinum
+10251,M,22,Rome,Gold
+10252,M,44,Rome,Bronze
+10253,F,56,Los Angeles,Gold
+10254,F,45,Los Angeles,Silver
+10255,M,19,Madrid,Platinum
+10256,M,30,New York,Silver
+10257,F,47,Shanghai,Bronze
+10258,M,27,Bristol,Silver
+10259,M,39,London,Silver
+10260,F,42,Los Angeles,Bronze
+10261,F,25,Tokyo,Bronze
+10262,F,34,Manchester,Silver
+10263,F,18,Shanghai,Silver
+10264,M,24,Munich,Bronze
+10265,M,32,Shanghai,Bronze
+10266,F,22,Bristol,Bronze
+10267,M,51,Los Angeles,Silver
+10268,F,20,Paris,Bronze
+10269,F,30,Tokyo,Silver
+10270,F,36,Rome,Silver
+10271,F,49,Manchester,Silver
+10272,F,20,Tokyo,Bronze
+10273,F,46,London,Bronze
+10274,M,35,Shanghai,Gold
+10275,M,25,Bristol,Silver
+10276,F,39,Los Angeles,Bronze
+10277,F,36,Shanghai,Gold
+10278,M,28,Paris,Bronze
+10279,F,35,Berlin,Silver
+10280,M,31,Berlin,Silver
+10281,F,36,Los Angeles,Silver
+10282,F,41,Rome,Bronze
+10283,M,50,Berlin,Bronze
+10284,M,22,Munich,Gold
+10285,M,56,Shanghai,Gold
+10286,F,18,Munich,Bronze
+10287,F,33,Madrid,Gold
+10288,F,40,London,Bronze
+10289,M,37,Los Angeles,Silver
+10290,F,28,Manchester,Bronze
+10291,M,32,Tokyo,Bronze
+10292,M,30,Rome,Silver
+10293,M,29,Manchester,Silver
+10294,M,43,Shanghai,Gold
+10295,F,38,Tokyo,Bronze
+10296,F,28,Munich,Gold
+10297,F,43,New York,Silver
+10298,M,38,Munich,Bronze
+10299,M,43,Manchester,Bronze
+10300,F,41,Berlin,Gold
+10301,F,26,London,Bronze
+10302,F,29,Madrid,Silver
+10303,F,42,Bristol,Silver
+10304,F,41,Berlin,Bronze
+10305,F,34,Paris,Gold
+10306,M,36,Tokyo,Bronze
+10307,F,47,New York,Gold
+10308,F,29,London,Bronze
+10309,F,40,Tokyo,Gold
+10310,F,32,Munich,Platinum
+10311,M,32,Paris,Platinum
+10312,M,45,Rome,Platinum
+10313,F,43,Manchester,Gold
+10314,F,43,Manchester,Silver
+10315,F,48,London,Silver
+10316,F,35,Shanghai,Platinum
+10317,M,41,Paris,Gold
+10318,F,31,Berlin,Silver
+10319,F,38,Shanghai,Bronze
+10320,F,33,Shanghai,Gold
+10321,F,35,Berlin,Silver
+10322,F,40,Rome,Bronze
+10323,M,26,New York,Silver
+10324,F,55,New York,Silver
+10325,F,24,Manchester,Gold
+10326,M,22,Paris,Bronze
+10327,F,46,London,Bronze
+10328,M,42,Los Angeles,Bronze
+10329,F,41,Bristol,Bronze
+10330,F,41,Madrid,Silver
+10331,M,34,Bristol,Bronze
+10332,F,26,Madrid,Silver
+10333,F,35,Madrid,Bronze
+10334,F,28,Shanghai,Bronze
+10335,F,44,Shanghai,Bronze
+10336,F,33,Los Angeles,Silver
+10337,M,26,Manchester,Silver
+10338,F,31,Madrid,Bronze
+10339,F,39,Tokyo,Bronze
+10340,F,29,New York,Platinum
+10341,F,26,Manchester,Bronze
+10342,F,37,Madrid,Bronze
+10343,F,37,London,Platinum
+10344,F,29,Los Angeles,Bronze
+10345,M,30,Madrid,Silver
+10346,F,37,New York,Silver
+10347,F,20,New York,Silver
+10348,F,20,Shanghai,Gold
+10349,M,27,Shanghai,Bronze
+10350,M,32,Los Angeles,Gold
+10351,M,38,Madrid,Bronze
+10352,M,49,Manchester,Gold
+10353,F,43,Tokyo,Silver
+10354,M,33,Bristol,Gold
+10355,F,34,Rome,Silver
+10356,F,24,Bristol,Bronze
+10357,F,34,Los Angeles,Silver
+10358,F,32,Manchester,Silver
+10359,M,38,Bristol,Gold
+10360,M,26,Shanghai,Silver
+10361,F,40,Rome,Bronze
+10362,F,50,London,Bronze
+10363,M,33,Paris,Bronze
+10364,F,39,Madrid,Bronze
+10365,F,41,Manchester,Silver
+10366,F,30,London,Silver
+10367,F,37,Madrid,Bronze
+10368,M,35,Shanghai,Gold
+10369,F,35,Shanghai,Silver
+10370,M,27,London,Gold
+10371,F,35,Paris,Bronze
+10372,M,39,Rome,Bronze
+10373,F,49,Berlin,Silver
+10374,F,44,Madrid,Silver
+10375,M,56,Munich,Silver
+10376,F,27,Madrid,Silver
+10377,F,43,London,Silver
+10378,M,36,Paris,Silver
+10379,M,56,Berlin,Bronze
+10380,F,26,Rome,Gold
+10381,F,26,London,Bronze
+10382,M,29,Manchester,Gold
+10383,F,18,Manchester,Silver
+10384,M,29,London,Gold
+10385,M,27,Bristol,Gold
+10386,M,36,Manchester,Gold
+10387,M,38,Madrid,Bronze
+10388,M,53,Berlin,Gold
+10389,M,44,Los Angeles,Gold
+10390,M,29,Bristol,Silver
+10391,M,26,Manchester,Silver
+10392,M,39,Bristol,Bronze
+10393,M,21,Madrid,Bronze
+10394,M,53,Los Angeles,Bronze
+10395,F,46,Rome,Bronze
+10396,M,30,Paris,Silver
+10397,F,18,Rome,Silver
+10398,F,48,Rome,Bronze
+10399,M,33,Tokyo,Gold
+10400,F,47,Paris,Silver
+10401,M,19,London,Platinum
+10402,F,29,Munich,Silver
+10403,F,35,Tokyo,Gold
+10404,M,35,Manchester,Bronze
+10405,M,30,Manchester,Bronze
+10406,F,41,Munich,Platinum
+10407,F,24,Paris,Silver
+10408,F,33,Manchester,Gold
+10409,M,36,Shanghai,Silver
+10410,M,40,Munich,Silver
+10411,M,42,Munich,Bronze
+10412,F,23,Munich,Silver
+10413,M,19,Berlin,Silver
+10414,F,47,Berlin,Platinum
+10415,F,38,Manchester,Bronze
+10416,M,27,Manchester,Silver
+10417,F,50,Bristol,Silver
+10418,F,36,Shanghai,Bronze
+10419,F,46,Shanghai,Gold
+10420,F,35,Tokyo,Bronze
+10421,F,55,Madrid,Bronze
+10422,M,52,Madrid,Silver
+10423,M,32,Shanghai,Silver
+10424,M,44,Berlin,Gold
+10425,F,41,Manchester,Gold
+10426,M,48,Munich,Gold
+10427,M,25,Madrid,Gold
+10428,F,41,London,Bronze
+10429,F,45,Berlin,Bronze
+10430,M,18,Bristol,Silver
+10431,F,23,Manchester,Bronze
+10432,M,18,Manchester,Silver
+10433,M,32,Munich,Silver
+10434,F,42,Bristol,Bronze
+10435,F,50,Madrid,Silver
+10436,M,35,Bristol,Bronze
+10437,M,51,Shanghai,Bronze
+10438,F,21,Shanghai,Silver
+10439,F,18,Munich,Bronze
+10440,M,34,Berlin,Silver
+10441,F,38,Shanghai,Silver
+10442,F,34,Rome,Silver
+10443,M,18,New York,Bronze
+10444,M,34,London,Bronze
+10445,M,21,Bristol,Gold
+10446,F,41,Berlin,Bronze
+10447,F,38,Tokyo,Silver
+10448,M,25,Munich,Silver
+10449,M,29,Rome,Silver
+10450,F,24,Manchester,Bronze
+10451,M,34,Munich,Bronze
+10452,M,44,Berlin,Silver
+10453,F,25,Tokyo,Silver
+10454,F,40,Manchester,Silver
+10455,F,29,Bristol,Gold
+10456,F,27,Tokyo,Gold
+10457,M,33,Munich,Gold
+10458,M,24,Munich,Silver
+10459,M,29,Munich,Gold
+10460,F,23,New York,Bronze
+10461,M,54,Manchester,Silver
+10462,M,35,Rome,Silver
+10463,F,28,Berlin,Silver
+10464,M,37,New York,Bronze
+10465,F,33,New York,Bronze
+10466,M,32,Shanghai,Bronze
+10467,F,41,Paris,Gold
+10468,F,42,Shanghai,Gold
+10469,F,29,Shanghai,Bronze
+10470,F,29,Manchester,Silver
+10471,F,32,Los Angeles,Silver
+10472,F,18,Rome,Bronze
+10473,F,19,Paris,Bronze
+10474,F,48,Los Angeles,Bronze
+10475,M,51,Madrid,Silver
+10476,F,32,Paris,Silver
+10477,M,40,Paris,Gold
+10478,M,38,Berlin,Silver
+10479,M,65,London,Silver
+10480,F,46,Tokyo,Bronze
+10481,M,33,London,Bronze
+10482,F,25,Paris,Silver
+10483,M,18,Berlin,Bronze
+10484,F,37,Munich,Silver
+10485,F,27,Shanghai,Silver
+10486,F,20,Manchester,Bronze
+10487,F,28,Los Angeles,Bronze
+10488,M,24,Berlin,Bronze
+10489,M,51,Berlin,Bronze
+10490,F,43,Bristol,Silver
+10491,M,34,Los Angeles,Silver
+10492,F,49,Bristol,Silver
+10493,M,35,Shanghai,Silver
+10494,F,26,London,Bronze
+10495,M,50,New York,Bronze
+10496,F,40,New York,Bronze
+10497,M,24,Bristol,Bronze
+10498,M,33,Rome,Gold
+10499,M,26,Shanghai,Bronze
+10500,M,21,Madrid,Bronze
+10501,M,44,Bristol,Gold
+10502,M,54,Tokyo,Silver
+10503,F,21,Berlin,Silver
+10504,M,40,Paris,Silver
+10505,F,28,New York,Silver
+10506,F,30,Paris,Gold
+10507,M,29,Berlin,Silver
+10508,F,26,Paris,Gold
+10509,F,35,Rome,Silver
+10510,M,26,New York,Gold
+10511,M,37,Los Angeles,Bronze
+10512,F,34,Berlin,Silver
+10513,M,32,Tokyo,Gold
+10514,M,25,Los Angeles,Bronze
+10515,M,29,Los Angeles,Silver
+10516,M,42,Munich,Bronze
+10517,M,40,Paris,Gold
+10518,M,25,Munich,Bronze
+10519,F,35,New York,Bronze
+10520,M,42,Berlin,Bronze
+10521,F,18,Manchester,Gold
+10522,F,40,Bristol,Bronze
+10523,F,28,Paris,Silver
+10524,M,40,Tokyo,Silver
+10525,M,27,Manchester,Bronze
+10526,M,18,Bristol,Silver
+10527,F,18,Manchester,Gold
+10528,M,35,Los Angeles,Bronze
+10529,M,37,Munich,Silver
+10530,F,25,Manchester,Bronze
+10531,F,41,Madrid,Silver
+10532,M,18,Tokyo,Bronze
+10533,F,34,London,Silver
+10534,M,22,Madrid,Silver
+10535,M,28,Rome,Platinum
+10536,M,35,Rome,Silver
+10537,M,26,Munich,Gold
+10538,M,31,Shanghai,Bronze
+10539,F,45,Los Angeles,Silver
+10540,F,29,Manchester,Bronze
+10541,M,43,Madrid,Silver
+10542,F,23,Bristol,Bronze
+10543,F,40,Shanghai,Bronze
+10544,F,49,Tokyo,Silver
+10545,M,18,Bristol,Bronze
+10546,F,27,London,Bronze
+10547,M,40,New York,Gold
+10548,F,32,Los Angeles,Silver
+10549,F,38,Los Angeles,Bronze
+10550,M,28,Los Angeles,Bronze
+10551,M,35,Shanghai,Bronze
+10552,M,33,Berlin,Silver
+10553,F,46,Tokyo,Silver
+10554,F,37,Berlin,Platinum
+10555,F,38,Tokyo,Silver
+10556,F,30,Manchester,Silver
+10557,M,30,Munich,Silver
+10558,M,30,Rome,Bronze
+10559,M,38,Manchester,Bronze
+10560,F,30,Los Angeles,Silver
+10561,F,37,Bristol,Silver
+10562,F,55,Paris,Bronze
+10563,F,43,Madrid,Platinum
+10564,F,31,Shanghai,Platinum
+10565,M,47,Manchester,Silver
+10566,F,30,Berlin,Silver
+10567,M,18,London,Bronze
+10568,F,24,London,Bronze
+10569,M,18,Shanghai,Bronze
+10570,F,31,Madrid,Bronze
+10571,M,35,Shanghai,Silver
+10572,F,51,Berlin,Silver
+10573,M,38,Madrid,Bronze
+10574,F,32,Munich,Bronze
+10575,F,43,New York,Platinum
+10576,M,18,Tokyo,Bronze
+10577,F,37,Rome,Bronze
+10578,F,42,Tokyo,Silver
+10579,F,20,Tokyo,Gold
+10580,F,46,New York,Bronze
+10581,M,38,Paris,Bronze
+10582,F,30,Manchester,Gold
+10583,F,41,Shanghai,Bronze
+10584,M,57,Rome,Silver
+10585,F,36,Bristol,Silver
+10586,M,37,Berlin,Silver
+10587,M,30,New York,Gold
+10588,M,26,Paris,Bronze
+10589,F,43,Paris,Gold
+10590,M,26,Madrid,Gold
+10591,M,35,Los Angeles,Bronze
+10592,F,30,Rome,Silver
+10593,F,39,Madrid,Bronze
+10594,F,38,Shanghai,Bronze
+10595,F,45,Shanghai,Silver
+10596,M,29,Rome,Silver
+10597,M,32,Bristol,Silver
+10598,M,25,Manchester,Silver
+10599,F,30,Bristol,Bronze
+10600,M,38,Berlin,Gold
+10601,F,42,Manchester,Bronze
+10602,F,25,Bristol,Silver
+10603,M,43,Rome,Silver
+10604,M,48,Bristol,Silver
+10605,F,39,Madrid,Bronze
+10606,M,53,Manchester,Bronze
+10607,F,27,Shanghai,Bronze
+10608,F,22,Madrid,Silver
+10609,F,18,Shanghai,Silver
+10610,F,49,Paris,Bronze
+10611,F,41,Los Angeles,Silver
+10612,M,34,Bristol,Silver
+10613,F,37,Paris,Bronze
+10614,M,23,Berlin,Gold
+10615,F,59,Tokyo,Platinum
+10616,F,36,Munich,Bronze
+10617,F,36,Rome,Silver
+10618,F,42,New York,Silver
+10619,F,39,Paris,Bronze
+10620,M,37,London,Bronze
+10621,F,27,Madrid,Silver
+10622,M,39,Berlin,Gold
+10623,F,53,New York,Gold
+10624,F,48,Rome,Silver
+10625,F,50,Paris,Bronze
+10626,F,29,Rome,Silver
+10627,M,25,New York,Silver
+10628,M,33,London,Bronze
+10629,F,35,Los Angeles,Silver
+10630,M,45,Munich,Bronze
+10631,F,18,Tokyo,Bronze
+10632,F,50,Berlin,Bronze
+10633,M,33,Madrid,Silver
+10634,F,30,Rome,Bronze
+10635,F,24,Rome,Silver
+10636,F,18,Madrid,Silver
+10637,M,43,Bristol,Platinum
+10638,F,35,Berlin,Gold
+10639,F,22,Rome,Gold
+10640,M,22,New York,Silver
+10641,F,31,Rome,Bronze
+10642,M,51,Bristol,Silver
+10643,F,32,Rome,Silver
+10644,M,19,Berlin,Gold
+10645,F,32,Bristol,Bronze
+10646,F,32,Madrid,Bronze
+10647,F,18,Tokyo,Silver
+10648,F,34,London,Bronze
+10649,M,32,Munich,Silver
+10650,M,41,Madrid,Silver
+10651,M,53,Tokyo,Bronze
+10652,F,46,Bristol,Silver
+10653,F,32,Bristol,Gold
+10654,M,23,London,Silver
+10655,M,60,New York,Bronze
+10656,F,35,Munich,Bronze
+10657,M,35,Munich,Silver
+10658,F,34,Tokyo,Silver
+10659,M,36,Rome,Bronze
+10660,F,33,Shanghai,Silver
+10661,F,29,Berlin,Platinum
+10662,F,29,Rome,Bronze
+10663,F,34,Shanghai,Gold
+10664,F,29,Madrid,Silver
+10665,M,27,Los Angeles,Silver
+10666,M,36,Los Angeles,Gold
+10667,M,32,Tokyo,Silver
+10668,F,50,Paris,Bronze
+10669,F,18,Los Angeles,Bronze
+10670,F,45,Munich,Gold
+10671,M,47,Los Angeles,Bronze
+10672,M,18,Berlin,Gold
+10673,F,31,Tokyo,Silver
+10674,M,31,Rome,Bronze
+10675,F,20,Bristol,Bronze
+10676,M,27,New York,Bronze
+10677,M,23,Shanghai,Bronze
+10678,M,52,Munich,Bronze
+10679,F,44,Manchester,Silver
+10680,M,47,London,Platinum
+10681,M,42,Munich,Silver
+10682,F,23,Paris,Silver
+10683,F,29,Berlin,Bronze
+10684,M,39,Manchester,Silver
+10685,M,22,Rome,Silver
+10686,M,42,Bristol,Silver
+10687,M,32,London,Platinum
+10688,F,31,Paris,Bronze
+10689,F,42,London,Bronze
+10690,M,39,Berlin,Bronze
+10691,F,31,Bristol,Gold
+10692,F,46,Los Angeles,Bronze
+10693,M,24,Berlin,Bronze
+10694,F,41,Shanghai,Bronze
+10695,M,40,London,Silver
+10696,F,31,Madrid,Silver
+10697,M,38,Bristol,Silver
+10698,F,22,Munich,Silver
+10699,M,44,Munich,Silver
+10700,M,33,Bristol,Silver

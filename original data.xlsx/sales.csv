@@ -1,0 +1,1201 @@
+sale_id,sale_date,product_id,store_id,customer_id,units_sold,unit_price,discount,cost_per_unit,total_sales,profit,region,channel,category,subcategory,product_name
+50001,2024-05-07,101,3,10449,1,1211.46,0.21,729.87,957.05,227.18,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50002,2024-01-04,301,8,10550,1,516.91,0.12,283.57,454.88,171.31,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50003,2024-05-13,201,8,10676,1,1338.88,0.19,683.92,1084.49,400.57,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50004,2024-07-15,101,3,10652,1,1205.78,0.02,717.51,1181.66,464.15,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50005,2024-04-30,401,4,10391,1,32.75,0.18,8.14,26.86,18.72,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50006,2024-08-16,301,3,10067,1,457.37,0.28,278.58,329.31,50.73,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50007,2024-05-16,103,2,10585,1,941.91,0.26,635.25,697.01,61.76,UK,Retail,Laptops,Business,ThinkPro 13
+50008,2024-06-17,202,8,10230,1,1234.59,0.18,725.95,1012.36,286.41,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50009,2024-06-03,402,6,10451,1,61.9,0.09,18.24,56.33,38.09,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50010,2024-10-25,302,8,10340,1,586.28,0.01,324.8,580.42,255.62,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50011,2024-10-20,201,1,10132,1,1182.67,0.12,705.17,1040.75,335.58,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50012,2024-01-06,103,7,10574,2,1029.27,0.12,613.74,1811.52,584.04,USA,Wholesale,Laptops,Business,ThinkPro 13
+50013,2024-05-13,201,5,10143,1,1198.01,0.07,693.94,1114.15,420.21,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50014,2024-11-30,403,5,10586,1,119.87,0.03,44.01,116.27,72.26,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50015,2024-07-03,301,4,10598,2,503.87,0.14,274.35,866.66,317.96,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50016,2024-12-20,201,4,10186,1,1306.67,0.06,688.17,1228.27,540.1,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50017,2024-04-30,101,1,10583,1,1173.08,0.16,755.27,985.39,230.12,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50018,2024-02-01,402,6,10237,1,56.03,0.13,18.14,48.75,30.61,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50019,2024-12-07,102,8,10561,1,1376.1,0.19,1000.33,1114.64,114.31,Europe,Partner Store,Laptops,Gaming,Predator X15
+50020,2024-03-01,103,4,10327,1,969.86,0.22,646.23,756.49,110.26,USA,Wholesale,Laptops,Business,ThinkPro 13
+50021,2024-08-26,401,5,10043,1,31.28,0.02,7.8,30.65,22.85,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50022,2024-06-06,202,3,10495,1,1188.7,0.08,711.03,1093.6,382.57,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50023,2024-03-22,402,8,10626,3,56.36,0.18,17.7,138.65,85.55,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50024,2024-07-26,201,1,10523,2,1187.42,0.19,639.64,1923.62,644.34,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50025,2024-12-17,101,5,10027,1,1218.9,0.15,764.04,1036.06,272.02,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50026,2024-09-14,401,7,10274,1,27.13,0.06,7.85,25.5,17.65,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50027,2024-12-26,302,4,10692,1,599.6,0.19,305.79,485.68,179.89,USA,Wholesale,Tablets,iPad,iPad Air 5
+50028,2024-06-08,201,3,10092,1,1062.33,0.3,690,743.63,53.63,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50029,2024-12-19,403,1,10263,1,131.72,0.13,45.86,114.6,68.74,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50030,2024-03-01,403,7,10286,1,127.31,0.1,46.34,114.58,68.24,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50031,2024-11-23,402,2,10663,1,61.28,0.16,18.92,51.48,32.56,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50032,2024-05-31,201,7,10269,1,1254.34,0.12,689.2,1103.82,414.62,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50033,2024-07-07,102,2,10183,1,1447.97,0.06,950.49,1361.09,410.6,UK,Retail,Laptops,Gaming,Predator X15
+50034,2024-11-10,403,4,10455,1,126.19,0.09,44.5,114.83,70.33,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50035,2024-04-23,202,4,10186,1,1373.81,0.24,703.96,1044.1,340.14,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50036,2024-04-22,302,2,10441,1,546.47,0.24,322.22,415.32,93.1,UK,Retail,Tablets,iPad,iPad Air 5
+50037,2024-03-09,101,2,10165,1,1240.14,0.01,740.53,1227.74,487.21,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50038,2024-09-01,402,5,10194,1,57.1,0.14,17.91,49.11,31.2,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50039,2024-03-19,301,8,10163,2,521.41,0.15,267.64,886.4,351.12,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50040,2024-08-20,102,6,10556,1,1449.52,0.04,960.09,1391.54,431.45,Europe,Retail,Laptops,Gaming,Predator X15
+50041,2024-11-06,101,2,10627,2,1148.34,0.28,721.94,1653.61,209.73,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50042,2024-07-10,401,6,10677,1,30.72,0.02,7.97,30.11,22.14,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50043,2024-07-31,301,3,10633,1,520.81,0.02,275.96,510.39,234.43,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50044,2024-12-25,401,2,10545,1,31.75,0.21,7.77,25.08,17.31,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50045,2024-10-08,102,8,10101,2,1404.86,0.15,942.86,2388.26,502.54,Europe,Partner Store,Laptops,Gaming,Predator X15
+50046,2024-08-29,101,5,10057,1,1188.95,0.01,729.63,1177.06,447.43,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50047,2024-10-02,103,2,10338,1,1039.17,0.23,616.63,800.16,183.53,UK,Retail,Laptops,Business,ThinkPro 13
+50048,2024-12-06,301,2,10138,2,537.34,0.02,265.45,1053.19,522.29,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50049,2024-04-21,101,2,10386,1,1272.67,0.23,763.09,979.96,216.87,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50050,2024-05-06,401,7,10166,1,27.23,0.21,8.34,21.51,13.17,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50051,2024-12-14,401,1,10681,1,31.4,0.14,8.13,27,18.87,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50052,2024-11-01,301,2,10185,1,511.69,0.1,271.75,460.52,188.77,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50053,2024-02-11,302,5,10116,2,619.66,0.18,320.82,1016.24,374.6,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50054,2024-09-26,102,8,10695,1,1500.29,0.03,909.65,1455.28,545.63,Europe,Partner Store,Laptops,Gaming,Predator X15
+50055,2024-08-16,103,3,10413,1,993.58,0.13,595.61,864.41,268.8,UK,Retail,Laptops,Business,ThinkPro 13
+50056,2024-09-27,101,7,10542,4,1273.1,0.13,741.61,4430.39,1463.95,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50057,2024-12-26,103,3,10062,2,985.77,0.07,606.41,1833.53,620.71,UK,Retail,Laptops,Business,ThinkPro 13
+50058,2024-07-04,102,1,10055,1,1518.3,0.04,935.41,1457.57,522.16,Europe,Online,Laptops,Gaming,Predator X15
+50059,2024-02-09,102,4,10289,2,1646.42,0.08,975.24,3029.41,1078.93,USA,Wholesale,Laptops,Gaming,Predator X15
+50060,2024-10-15,402,5,10665,1,57.81,0.14,18.21,49.72,31.51,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50061,2024-02-27,402,5,10050,1,59.99,0.06,18.33,56.39,38.06,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50062,2024-02-01,302,6,10298,1,577.31,0.04,315.86,554.22,238.36,Europe,Retail,Tablets,iPad,iPad Air 5
+50063,2024-10-07,402,4,10613,2,60.51,0.16,18.8,101.66,64.06,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50064,2024-09-15,301,7,10033,1,484.74,0.23,282.8,373.25,90.45,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50065,2024-04-13,402,1,10125,1,61.39,0.18,18.2,50.34,32.14,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50066,2024-10-20,103,4,10321,1,933.6,0.09,620.74,849.58,228.84,USA,Wholesale,Laptops,Business,ThinkPro 13
+50067,2024-10-01,402,4,10199,2,62.62,0.06,19.06,117.73,79.61,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50068,2024-03-17,403,4,10556,1,131.43,0.22,43.99,102.52,58.53,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50069,2024-03-25,101,2,10655,1,1189.47,0.23,761.69,915.89,154.2,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50070,2024-06-16,402,1,10563,1,66.48,0.01,17.74,65.82,48.08,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50071,2024-09-23,102,5,10460,1,1526.29,0.11,944.6,1358.4,413.8,Asia,Partner Store,Laptops,Gaming,Predator X15
+50072,2024-08-14,201,5,10496,1,1200.29,0.14,685.6,1032.25,346.65,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50073,2024-02-29,301,3,10514,1,483.34,0.16,275.86,406.01,130.15,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50074,2024-12-14,102,4,10352,1,1533.29,0.21,947.94,1211.3,263.36,USA,Wholesale,Laptops,Gaming,Predator X15
+50075,2024-04-15,201,1,10210,1,1091.87,0.18,692.76,895.33,202.57,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50076,2024-10-25,102,5,10290,2,1462.33,0.07,961.53,2719.93,796.87,Asia,Partner Store,Laptops,Gaming,Predator X15
+50077,2024-09-07,103,8,10558,1,1022.23,0.12,627.94,899.56,271.62,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50078,2024-02-16,402,3,10396,1,56.59,0.03,17.4,54.89,37.49,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50079,2024-09-18,302,2,10081,1,580.69,0.26,317.4,429.71,112.31,UK,Retail,Tablets,iPad,iPad Air 5
+50080,2024-08-16,201,6,10561,1,1140,0.28,634.17,820.8,186.63,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50081,2024-01-29,101,7,10635,1,1184.02,0.23,765.61,911.7,146.09,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50082,2024-08-20,101,4,10610,1,1337.3,0.06,747.19,1257.06,509.87,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50083,2024-03-08,101,8,10493,1,1129.49,0.02,730.63,1106.9,376.27,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50084,2024-09-19,201,1,10535,1,1274.74,0.1,652.43,1147.27,494.84,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50085,2024-07-31,103,2,10600,2,1046.76,0.06,623.8,1967.91,720.31,UK,Retail,Laptops,Business,ThinkPro 13
+50086,2024-08-21,101,7,10685,1,1335.26,0.07,759.31,1241.79,482.48,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50087,2024-10-15,301,8,10150,2,496.37,0.02,269.86,972.89,433.17,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50088,2024-01-30,101,1,10138,1,1197.05,0.11,780.67,1065.37,284.7,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50089,2024-10-13,302,3,10487,1,588.36,0.26,318.78,435.39,116.61,UK,Retail,Tablets,iPad,iPad Air 5
+50090,2024-08-24,301,4,10646,1,485.64,0.09,260.96,441.93,180.97,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50091,2024-12-10,403,1,10395,1,144.33,0.04,45.11,138.56,93.45,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50092,2024-06-06,402,2,10243,1,58.31,0.09,17.06,53.06,36,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50093,2024-01-12,201,5,10132,1,1142.3,0.11,706.62,1016.65,310.03,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50094,2024-07-21,103,2,10091,1,983.01,0.1,599.83,884.71,284.88,UK,Retail,Laptops,Business,ThinkPro 13
+50095,2024-05-10,403,3,10235,1,131.8,0.22,44.89,102.8,57.91,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50096,2024-01-02,101,3,10687,2,1165.96,0.28,741.85,1678.98,195.28,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50097,2024-04-21,402,1,10539,2,60.27,0.01,17.84,119.33,83.65,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50098,2024-10-23,201,5,10069,1,1120.75,0.17,703.96,930.22,226.26,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50099,2024-02-07,401,1,10169,1,27.62,0.03,8.29,26.79,18.5,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50100,2024-01-24,402,3,10137,1,63.96,0.11,17.52,56.92,39.4,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50101,2024-08-04,301,8,10324,1,500.23,0.09,266.63,455.21,188.58,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50102,2024-06-25,103,6,10304,1,1024.88,0.3,625.11,717.42,92.31,Europe,Retail,Laptops,Business,ThinkPro 13
+50103,2024-12-24,302,6,10483,2,590.73,0.1,301.94,1063.31,459.43,Europe,Retail,Tablets,iPad,iPad Air 5
+50104,2024-02-02,403,8,10292,1,139.22,0.01,45.37,137.83,92.46,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50105,2024-10-04,202,8,10032,5,1386.6,0.03,716.47,6725.01,3142.66,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50106,2024-01-31,302,8,10167,2,630.62,0.01,318.27,1248.63,612.09,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50107,2024-02-05,202,5,10463,1,1284.69,0.1,726.91,1156.22,429.31,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50108,2024-08-29,402,8,10226,1,61.59,0.09,18.04,56.05,38.01,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50109,2024-01-17,102,4,10094,1,1528.88,0.21,975.19,1207.82,232.63,USA,Wholesale,Laptops,Gaming,Predator X15
+50110,2024-05-26,402,5,10516,1,63.16,0.02,17.79,61.9,44.11,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50111,2024-07-28,201,3,10623,2,1322,0.13,680.23,2300.28,939.82,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50112,2024-04-02,103,7,10585,1,1003.26,0.17,616.38,832.71,216.33,USA,Wholesale,Laptops,Business,ThinkPro 13
+50113,2024-03-10,402,7,10361,5,55.52,0.09,17.93,252.62,162.97,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50114,2024-11-24,202,7,10055,2,1335.78,0.06,751.3,2511.27,1008.67,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50115,2024-11-26,302,3,10508,1,616.8,0.25,312.09,462.6,150.51,UK,Retail,Tablets,iPad,iPad Air 5
+50116,2024-08-03,201,5,10064,1,1285.29,0.11,703.76,1143.91,440.15,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50117,2024-07-10,401,6,10165,1,29.55,0.17,7.84,24.53,16.69,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50118,2024-07-14,202,4,10330,1,1288.08,0.22,779,1004.7,225.7,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50119,2024-08-17,201,1,10639,1,1207.51,0.16,691.53,1014.31,322.78,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50120,2024-07-12,202,5,10599,2,1313.76,0.12,749.76,2312.22,812.7,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50121,2024-07-11,401,6,10070,2,30.09,0.09,7.73,54.76,39.3,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50122,2024-02-11,403,1,10566,2,133.01,0.04,43.64,255.38,168.1,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50123,2024-12-15,103,2,10526,1,935.03,0.22,604.26,729.32,125.06,UK,Retail,Laptops,Business,ThinkPro 13
+50124,2024-12-04,301,7,10002,1,490.96,0.12,270.26,432.04,161.78,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50125,2024-10-03,101,2,10307,1,1157.36,0.13,754.16,1006.9,252.74,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50126,2024-03-09,103,2,10630,5,1053.98,0.1,609.64,4742.91,1694.71,UK,Retail,Laptops,Business,ThinkPro 13
+50127,2024-11-30,103,1,10693,1,1032.55,0,603.59,1032.55,428.96,Europe,Online,Laptops,Business,ThinkPro 13
+50128,2024-06-27,102,5,10607,1,1613.03,0.13,904.08,1403.34,499.26,Asia,Partner Store,Laptops,Gaming,Predator X15
+50129,2024-03-01,402,2,10579,1,55.37,0.17,18.13,45.96,27.83,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50130,2024-04-01,202,5,10571,1,1263.64,0.04,689.63,1213.09,523.46,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50131,2024-10-02,302,1,10503,2,565.97,0.02,316.31,1109.3,476.68,Europe,Online,Tablets,iPad,iPad Air 5
+50132,2024-07-20,201,2,10216,1,1140.88,0.04,703.99,1095.24,391.25,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50133,2024-09-27,301,5,10040,1,474.74,0.14,277.74,408.28,130.54,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50134,2024-03-06,302,6,10614,1,599.74,0.09,327.34,545.76,218.42,Europe,Retail,Tablets,iPad,iPad Air 5
+50135,2024-04-24,102,3,10470,1,1556.91,0.03,868.48,1510.2,641.72,UK,Retail,Laptops,Gaming,Predator X15
+50136,2024-01-02,102,6,10337,1,1539.42,0.14,958.44,1323.9,365.46,Europe,Retail,Laptops,Gaming,Predator X15
+50137,2024-01-12,101,4,10063,1,1165.3,0.08,735.19,1072.08,336.89,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50138,2024-06-01,401,2,10621,2,30.21,0.25,8.29,45.32,28.74,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50139,2024-08-25,401,2,10471,2,27.09,0.28,7.77,39.01,23.47,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50140,2024-12-10,403,4,10188,1,125.18,0.12,45.13,110.16,65.03,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50141,2024-10-05,402,7,10377,1,63.66,0.12,18.27,56.02,37.75,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50142,2024-08-05,401,4,10553,1,31.16,0.17,8.21,25.86,17.65,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50143,2024-09-29,103,5,10181,1,978.57,0.13,630.35,851.36,221.01,Asia,Partner Store,Laptops,Business,ThinkPro 13
+50144,2024-07-13,201,5,10155,1,1246.66,0.12,671.31,1097.06,425.75,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50145,2024-04-27,202,3,10595,1,1280.22,0.08,723.03,1177.8,454.77,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50146,2024-05-06,101,6,10559,1,1213.61,0.27,760.83,885.94,125.11,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50147,2024-08-23,101,8,10552,2,1325.54,0.19,762.92,2147.37,621.53,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50148,2024-06-26,301,7,10625,1,503.42,0.16,272.14,422.87,150.73,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50149,2024-03-20,403,4,10270,2,120.32,0.08,43.97,221.39,133.45,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50150,2024-05-21,201,7,10401,1,1204.48,0.05,718.01,1144.26,426.25,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50151,2024-04-06,101,1,10093,1,1177.13,0.07,764.88,1094.73,329.85,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50152,2024-02-27,403,6,10243,5,125.98,0.1,44.05,566.91,346.66,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50153,2024-01-17,301,4,10690,1,488.77,0.09,258.49,444.78,186.29,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50154,2024-12-04,402,2,10234,1,61.92,0.11,19.11,55.11,36,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50155,2024-08-02,201,1,10310,1,1214.84,0.11,651.62,1081.21,429.59,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50156,2024-11-10,201,6,10409,1,1209.46,0.24,667.45,919.19,251.74,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50157,2024-01-09,102,7,10050,1,1577.45,0.11,915.07,1403.93,488.86,USA,Wholesale,Laptops,Gaming,Predator X15
+50158,2024-05-03,201,1,10313,1,1138.39,0.06,694.71,1070.09,375.38,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50159,2024-04-15,401,7,10557,1,31.88,0.11,7.97,28.37,20.4,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50160,2024-02-04,301,6,10678,1,523.16,0.13,272.64,455.15,182.51,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50161,2024-02-21,302,2,10578,1,597.63,0.06,318.22,561.77,243.55,UK,Retail,Tablets,iPad,iPad Air 5
+50162,2024-10-31,301,3,10227,5,512.09,0.19,263.89,2073.96,754.51,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50163,2024-01-18,403,7,10602,2,128.71,0.21,45.41,203.36,112.54,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50164,2024-08-16,102,1,10003,2,1386.47,0.02,994.57,2717.48,728.34,Europe,Online,Laptops,Gaming,Predator X15
+50165,2024-11-02,101,2,10515,2,1200.92,0.27,752.21,1753.34,248.92,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50166,2024-12-10,201,5,10622,1,1248.56,0.17,664.6,1036.3,371.7,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50167,2024-12-26,402,1,10009,1,61.39,0.06,18.52,57.71,39.19,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50168,2024-01-25,301,4,10300,1,522.64,0.18,277.02,428.56,151.54,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50169,2024-05-05,301,4,10062,1,493.3,0.1,268.51,443.97,175.46,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50170,2024-01-23,102,5,10249,2,1451.39,0.07,957.41,2699.59,784.77,Asia,Partner Store,Laptops,Gaming,Predator X15
+50171,2024-07-24,103,4,10478,1,990.42,0.22,624.44,772.53,148.09,USA,Wholesale,Laptops,Business,ThinkPro 13
+50172,2024-08-12,302,6,10082,2,625.24,0.25,319.22,937.86,299.42,Europe,Retail,Tablets,iPad,iPad Air 5
+50173,2024-04-29,402,1,10109,1,59.78,0.05,17.92,56.79,38.87,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50174,2024-10-03,401,4,10369,1,29.69,0.15,8,25.24,17.24,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50175,2024-04-21,302,5,10254,1,657.67,0.12,314.94,578.75,263.81,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50176,2024-01-29,401,8,10307,1,29.04,0.17,7.85,24.1,16.25,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50177,2024-03-12,401,6,10078,1,30.38,0.15,8.17,25.82,17.65,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50178,2024-09-14,101,7,10395,1,1164.49,0.14,784.3,1001.46,217.16,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50179,2024-05-28,202,6,10270,1,1447.99,0.07,761.36,1346.63,585.27,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50180,2024-04-29,301,2,10289,1,510.51,0.11,250.58,454.35,203.77,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50181,2024-10-21,401,1,10265,1,29.87,0.19,7.7,24.19,16.49,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50182,2024-06-12,402,3,10649,1,67.2,0.15,18.62,57.12,38.5,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50183,2024-10-22,202,4,10007,2,1357.47,0.24,739.34,2063.35,584.67,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50184,2024-11-02,403,4,10061,1,127.66,0.14,44.92,109.79,64.87,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50185,2024-12-10,403,3,10418,1,127.43,0.13,45.91,110.86,64.95,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50186,2024-06-13,402,7,10045,1,65.79,0.22,17.55,51.32,33.77,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50187,2024-05-01,302,3,10265,1,579.1,0.04,301.81,555.94,254.13,UK,Retail,Tablets,iPad,iPad Air 5
+50188,2024-06-03,201,5,10657,1,1233.71,0.03,680.86,1196.7,515.84,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50189,2024-03-14,102,5,10527,1,1557.2,0.06,951.65,1463.77,512.12,Asia,Partner Store,Laptops,Gaming,Predator X15
+50190,2024-12-04,301,2,10209,1,491.17,0.08,255.49,451.88,196.39,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50191,2024-09-23,201,4,10128,1,1246.56,0.21,668.62,984.78,316.16,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50192,2024-04-23,301,7,10546,1,437.78,0.18,272.75,358.98,86.23,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50193,2024-07-30,201,3,10397,5,1316.78,0.06,657.3,6188.87,2902.37,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50194,2024-06-02,402,8,10482,1,57.38,0.11,18.07,51.07,33,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50195,2024-05-20,402,6,10364,1,59.72,0.01,18.53,59.12,40.59,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50196,2024-02-01,401,3,10206,1,29.02,0.21,7.85,22.93,15.08,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50197,2024-10-12,401,8,10137,1,28.4,0.08,7.9,26.13,18.23,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50198,2024-10-29,202,6,10269,1,1290.39,0.24,743.6,980.7,237.1,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50199,2024-03-30,401,7,10455,2,29.1,0.2,7.85,46.56,30.86,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50200,2024-11-16,102,4,10341,1,1400.97,0.19,936.31,1134.79,198.48,USA,Wholesale,Laptops,Gaming,Predator X15
+50201,2024-12-13,402,2,10025,1,59.59,0.29,17.5,42.31,24.81,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50202,2024-08-06,401,4,10692,4,32.27,0.24,7.59,98.1,67.74,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50203,2024-10-11,402,5,10634,2,59.42,0.15,17.07,101.01,66.87,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50204,2024-09-10,201,4,10672,2,1182.11,0.13,652.09,2056.87,752.69,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50205,2024-01-25,403,2,10697,2,138.33,0.12,47,243.46,149.46,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50206,2024-06-25,302,7,10639,1,640.71,0.11,325.3,570.23,244.93,USA,Wholesale,Tablets,iPad,iPad Air 5
+50207,2024-11-25,302,5,10206,2,564.7,0.04,319.67,1084.22,444.88,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50208,2024-12-09,401,8,10432,1,31.26,0.15,7.91,26.57,18.66,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50209,2024-07-14,101,2,10385,1,1145.97,0.2,736.03,916.78,180.75,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50210,2024-09-25,101,6,10096,1,1140.75,0.29,736.52,809.93,73.41,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50211,2024-06-12,202,6,10687,1,1348.76,0.1,726.95,1213.88,486.93,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50212,2024-12-22,202,6,10361,1,1307.19,0.22,739.54,1019.61,280.07,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50213,2024-08-01,101,5,10132,1,1250.83,0.2,742.47,1000.66,258.19,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50214,2024-07-28,201,5,10150,1,1288.94,0.01,703.86,1276.05,572.19,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50215,2024-03-17,301,4,10684,1,511.36,0.2,277.44,409.09,131.65,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50216,2024-06-02,403,3,10196,1,137.68,0.3,45.04,96.38,51.34,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50217,2024-07-11,103,4,10180,1,956.21,0.15,621.23,812.78,191.55,USA,Wholesale,Laptops,Business,ThinkPro 13
+50218,2024-04-04,401,5,10095,1,31.96,0.02,8.5,31.32,22.82,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50219,2024-10-02,102,7,10502,1,1392.44,0.07,990.2,1294.97,304.77,USA,Wholesale,Laptops,Gaming,Predator X15
+50220,2024-08-30,102,7,10342,1,1519.21,0.15,947.36,1291.33,343.97,USA,Wholesale,Laptops,Gaming,Predator X15
+50221,2024-05-03,201,6,10303,2,1235.06,0.07,687.92,2297.21,921.37,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50222,2024-04-25,202,4,10154,1,1279.45,0.23,739.94,985.18,245.24,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50223,2024-06-02,201,6,10097,1,1139.95,0.14,681.58,980.36,298.78,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50224,2024-12-28,101,1,10157,1,1262.56,0.04,741.19,1212.06,470.87,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50225,2024-03-14,202,1,10253,1,1170.53,0.02,756.15,1147.12,390.97,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50226,2024-08-25,301,3,10407,1,483.64,0.24,270.58,367.57,96.99,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50227,2024-01-30,101,8,10200,1,1225.26,0.03,748.59,1188.5,439.91,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50228,2024-10-14,202,5,10429,1,1211.79,0.16,769.45,1017.9,248.45,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50229,2024-07-30,202,2,10440,1,1393.85,0.07,724.31,1296.28,571.97,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50230,2024-08-01,301,3,10162,1,454.21,0.22,286.62,354.28,67.66,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50231,2024-10-12,102,5,10613,1,1494.6,0.09,1000.27,1360.09,359.82,Asia,Partner Store,Laptops,Gaming,Predator X15
+50232,2024-09-28,401,2,10079,1,27.74,0.09,7.87,25.24,17.37,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50233,2024-03-09,401,6,10416,1,29.16,0.1,7.96,26.24,18.28,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50234,2024-07-17,202,5,10068,1,1277.22,0.06,764.86,1200.59,435.73,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50235,2024-05-04,402,2,10421,2,60.15,0.1,17.43,108.27,73.41,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50236,2024-05-10,101,1,10251,1,1164.54,0.07,747.95,1083.02,335.07,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50237,2024-04-14,301,7,10560,1,530.61,0.08,272.58,488.16,215.58,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50238,2024-06-18,301,5,10109,1,473.38,0.08,269.85,435.51,165.66,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50239,2024-11-27,102,6,10279,1,1450.38,0.12,942.41,1276.33,333.92,Europe,Retail,Laptops,Gaming,Predator X15
+50240,2024-02-10,103,1,10270,1,1045.09,0.2,627.57,836.07,208.5,Europe,Online,Laptops,Business,ThinkPro 13
+50241,2024-08-18,402,6,10232,1,56.58,0.24,18.07,43,24.93,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50242,2024-07-08,301,4,10022,1,497.34,0.11,271.84,442.63,170.79,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50243,2024-02-17,403,7,10049,2,131.34,0.23,46.54,202.26,109.18,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50244,2024-10-01,401,6,10111,1,27.56,0.28,7.79,19.84,12.05,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50245,2024-04-07,401,3,10177,1,29.67,0.17,7.54,24.63,17.09,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50246,2024-01-27,103,8,10454,1,959.02,0.05,632.73,911.07,278.34,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50247,2024-05-17,102,6,10354,2,1525.85,0.19,931.75,2471.88,608.38,Europe,Retail,Laptops,Gaming,Predator X15
+50248,2024-07-12,103,5,10013,1,965.3,0.13,624.12,839.81,215.69,Asia,Partner Store,Laptops,Business,ThinkPro 13
+50249,2024-12-10,301,5,10632,1,478.09,0.04,271.4,458.97,187.57,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50250,2024-11-05,401,3,10442,1,28.13,0.04,8.34,27,18.66,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50251,2024-11-04,202,1,10577,1,1274,0.1,746.01,1146.6,400.59,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50252,2024-01-21,403,2,10229,2,120,0.17,46.53,199.2,106.14,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50253,2024-02-07,401,7,10357,1,30.36,0.18,8.07,24.9,16.83,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50254,2024-04-06,301,6,10075,1,477.6,0.14,264.83,410.74,145.91,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50255,2024-10-27,103,7,10390,1,915.53,0.08,598.69,842.29,243.6,USA,Wholesale,Laptops,Business,ThinkPro 13
+50256,2024-12-09,301,1,10523,1,517.73,0.07,276.2,481.49,205.29,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50257,2024-10-13,103,7,10153,1,1004.35,0.24,609.67,763.31,153.64,USA,Wholesale,Laptops,Business,ThinkPro 13
+50258,2024-04-21,302,5,10146,1,596.87,0.03,309.4,578.96,269.56,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50259,2024-09-02,402,3,10422,1,61.61,0.1,17.87,55.45,37.58,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50260,2024-04-16,402,3,10654,2,57.87,0.3,18.76,81.02,43.5,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50261,2024-06-19,101,3,10046,2,1211.64,0.28,734.21,1744.76,276.34,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50262,2024-06-04,301,3,10444,1,502.36,0.16,278.09,421.98,143.89,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50263,2024-01-08,302,3,10692,1,578.61,0.19,310.79,468.67,157.88,UK,Retail,Tablets,iPad,iPad Air 5
+50264,2024-04-18,402,7,10691,1,55.74,0.25,18.75,41.8,23.05,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50265,2024-04-07,101,1,10365,1,1101.3,0.07,758.59,1024.21,265.62,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50266,2024-03-01,401,5,10219,1,29.96,0.19,7.65,24.27,16.62,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50267,2024-09-02,101,8,10362,2,1163.6,0.19,767.84,1885.03,349.35,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50268,2024-05-04,202,5,10583,1,1231.37,0.09,768.83,1120.55,351.72,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50269,2024-12-22,403,7,10515,1,130.1,0.05,45.79,123.59,77.8,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50270,2024-11-05,202,6,10033,3,1197.96,0.02,758.85,3522,1245.45,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50271,2024-12-26,101,7,10306,1,1075.96,0.23,763.96,828.49,64.53,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50272,2024-04-14,201,3,10051,1,1155.87,0.12,676.41,1017.17,340.76,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50273,2024-07-22,102,5,10055,1,1579.74,0,948.11,1579.74,631.63,Asia,Partner Store,Laptops,Gaming,Predator X15
+50274,2024-05-02,401,7,10393,1,31.71,0.23,8.31,24.42,16.11,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50275,2024-10-09,102,6,10196,2,1474.94,0.17,959.66,2448.4,529.08,Europe,Retail,Laptops,Gaming,Predator X15
+50276,2024-06-13,302,3,10100,1,668.41,0.26,333.62,494.62,161,UK,Retail,Tablets,iPad,iPad Air 5
+50277,2024-05-24,401,3,10546,1,31.03,0.1,7.84,27.93,20.09,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50278,2024-07-13,302,6,10121,1,596.81,0.14,323.01,513.26,190.25,Europe,Retail,Tablets,iPad,iPad Air 5
+50279,2024-08-26,401,5,10427,1,24.37,0.08,7.69,22.42,14.73,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50280,2024-09-30,102,6,10152,1,1329.05,0.06,915.32,1249.31,333.99,Europe,Retail,Laptops,Gaming,Predator X15
+50281,2024-11-28,302,2,10344,2,597.86,0.3,314.82,837,207.36,UK,Retail,Tablets,iPad,iPad Air 5
+50282,2024-07-02,302,2,10309,1,629.61,0.06,324.19,591.83,267.64,UK,Retail,Tablets,iPad,iPad Air 5
+50283,2024-06-06,103,1,10651,1,969.18,0.05,637.74,920.72,282.98,Europe,Online,Laptops,Business,ThinkPro 13
+50284,2024-05-13,202,7,10262,1,1314.03,0.08,751.65,1208.91,457.26,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50285,2024-07-03,401,2,10203,1,30.95,0.07,7.93,28.78,20.85,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50286,2024-09-19,202,8,10090,2,1354.18,0.16,732.02,2275.02,810.98,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50287,2024-09-11,202,3,10160,2,1287.99,0.27,739.21,1880.47,402.05,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50288,2024-08-26,302,4,10361,1,546.81,0.08,328.62,503.07,174.45,USA,Wholesale,Tablets,iPad,iPad Air 5
+50289,2024-02-20,202,1,10386,1,1352.66,0.1,719.09,1217.39,498.3,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50290,2024-08-28,201,3,10257,1,1174.49,0.21,662.13,927.85,265.72,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50291,2024-06-12,103,5,10697,1,1130.23,0.1,592.89,1017.21,424.32,Asia,Partner Store,Laptops,Business,ThinkPro 13
+50292,2024-04-14,102,1,10569,1,1541.49,0.14,935.42,1325.68,390.26,Europe,Online,Laptops,Gaming,Predator X15
+50293,2024-07-08,101,8,10319,1,1223.26,0.05,792.68,1162.1,369.42,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50294,2024-06-09,201,4,10556,1,1171.25,0.11,670.7,1042.41,371.71,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50295,2024-07-30,103,4,10021,1,981.65,0.11,609.56,873.67,264.11,USA,Wholesale,Laptops,Business,ThinkPro 13
+50296,2024-01-24,202,1,10345,1,1252.27,0.01,739.19,1239.75,500.56,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50297,2024-10-15,201,2,10675,1,1290.68,0.22,689.13,1006.73,317.6,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50298,2024-04-23,403,5,10500,1,141.26,0.05,44.73,134.2,89.47,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50299,2024-03-15,401,8,10210,2,31.27,0.17,7.62,51.91,36.67,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50300,2024-01-09,402,8,10381,1,58.94,0.1,18.65,53.05,34.4,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50301,2024-05-13,102,4,10432,1,1414.07,0.08,944.56,1300.94,356.38,USA,Wholesale,Laptops,Gaming,Predator X15
+50302,2024-10-10,201,8,10128,2,1134.32,0.11,657.25,2019.09,704.59,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50303,2024-10-26,402,2,10197,1,58.54,0.26,17.66,43.32,25.66,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50304,2024-10-23,302,5,10105,1,622.86,0.01,333.26,616.63,283.37,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50305,2024-08-01,103,8,10176,1,974.21,0.05,625.03,925.5,300.47,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50306,2024-05-31,302,7,10493,1,606.26,0.24,323.16,460.76,137.6,USA,Wholesale,Tablets,iPad,iPad Air 5
+50307,2024-03-19,101,7,10133,1,1170.87,0.23,770.45,901.57,131.12,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50308,2024-04-10,402,8,10571,1,54.37,0.16,17.55,45.67,28.12,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50309,2024-06-17,301,2,10121,1,471.89,0.15,262.08,401.11,139.03,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50310,2024-04-27,202,2,10492,1,1391.18,0.1,729.46,1252.06,522.6,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50311,2024-07-13,201,7,10244,1,1173.09,0.17,702.54,973.66,271.12,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50312,2024-10-18,202,2,10331,1,1349.28,0,719.99,1349.28,629.29,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50313,2024-05-05,201,1,10089,4,1119.19,0.06,680.39,4208.15,1486.59,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50314,2024-09-12,102,1,10265,1,1491.35,0.2,886.37,1193.08,306.71,Europe,Online,Laptops,Gaming,Predator X15
+50315,2024-10-08,402,4,10107,1,67.18,0.17,17.29,55.76,38.47,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50316,2024-12-01,402,5,10588,1,57.21,0.1,17.34,51.49,34.15,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50317,2024-12-16,103,4,10257,1,1089.56,0.22,643.4,849.86,206.46,USA,Wholesale,Laptops,Business,ThinkPro 13
+50318,2024-06-21,202,1,10130,1,1334.57,0.2,734.27,1067.66,333.39,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50319,2024-05-11,102,5,10267,1,1448.67,0.1,952.01,1303.8,351.79,Asia,Partner Store,Laptops,Gaming,Predator X15
+50320,2024-09-07,102,8,10405,1,1454.18,0.02,1009.5,1425.1,415.6,Europe,Partner Store,Laptops,Gaming,Predator X15
+50321,2024-11-24,301,8,10280,2,513.77,0.11,284.21,914.51,346.09,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50322,2024-09-08,103,1,10683,1,939.93,0.12,652.18,827.14,174.96,Europe,Online,Laptops,Business,ThinkPro 13
+50323,2024-08-23,201,5,10600,1,1210.63,0.17,663.4,1004.82,341.42,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50324,2024-03-27,302,6,10166,1,596.14,0.1,322.39,536.53,214.14,Europe,Retail,Tablets,iPad,iPad Air 5
+50325,2024-06-29,103,7,10697,1,1049.65,0.22,640.45,818.73,178.28,USA,Wholesale,Laptops,Business,ThinkPro 13
+50326,2024-03-27,302,3,10620,2,581.34,0.07,322.68,1081.29,435.93,UK,Retail,Tablets,iPad,iPad Air 5
+50327,2024-03-12,301,7,10513,1,534.58,0.09,263.73,486.47,222.74,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50328,2024-10-06,401,6,10521,2,29.19,0.11,8.01,51.96,35.94,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50329,2024-09-07,301,8,10159,1,488.07,0.13,268.77,424.62,155.85,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50330,2024-04-04,102,6,10675,1,1576.22,0.06,945.24,1481.65,536.41,Europe,Retail,Laptops,Gaming,Predator X15
+50331,2024-10-04,403,1,10345,1,129.06,0.1,42.76,116.15,73.39,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50332,2024-11-24,403,1,10450,1,140.08,0.11,44.05,124.67,80.62,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50333,2024-01-31,201,4,10545,1,1276.36,0.2,674.72,1021.09,346.37,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50334,2024-09-25,101,4,10625,1,1142.82,0.23,770.14,879.97,109.83,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50335,2024-01-18,302,7,10651,1,607.28,0.16,314.73,510.12,195.39,USA,Wholesale,Tablets,iPad,iPad Air 5
+50336,2024-02-08,202,1,10557,1,1406.7,0.05,744.74,1336.36,591.62,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50337,2024-12-08,302,5,10616,3,534.96,0,309.76,1604.88,675.6,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50338,2024-01-25,202,8,10228,1,1392.34,0.18,714.53,1141.72,427.19,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50339,2024-01-04,101,7,10031,2,1208.47,0.2,774.94,1933.55,383.67,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50340,2024-07-30,401,5,10559,1,29.83,0.07,7.82,27.74,19.92,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50341,2024-03-11,201,6,10267,1,1242.16,0.19,700.87,1006.15,305.28,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50342,2024-11-18,401,6,10427,1,30.23,0.02,7.76,29.63,21.87,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50343,2024-04-28,302,3,10393,2,599.99,0.09,327.99,1091.98,436,UK,Retail,Tablets,iPad,iPad Air 5
+50344,2024-02-04,302,5,10294,1,578.49,0.15,337.91,491.72,153.81,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50345,2024-12-28,102,5,10006,2,1439.36,0.13,970.92,2504.49,562.65,Asia,Partner Store,Laptops,Gaming,Predator X15
+50346,2024-03-18,201,7,10129,1,1205.09,0.07,681.66,1120.73,439.07,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50347,2024-01-05,201,5,10348,1,1220.22,0.07,667.06,1134.8,467.74,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50348,2024-04-21,403,7,10035,1,128.07,0.15,45.01,108.86,63.85,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50349,2024-09-15,103,6,10148,1,992.79,0.13,620.72,863.73,243.01,Europe,Retail,Laptops,Business,ThinkPro 13
+50350,2024-08-21,101,6,10679,2,1169.78,0.08,740.38,2152.4,671.64,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50351,2024-07-10,102,7,10590,3,1360.8,0.16,939.13,3429.22,611.83,USA,Wholesale,Laptops,Gaming,Predator X15
+50352,2024-01-31,101,5,10430,1,1203.94,0.06,756.2,1131.7,375.5,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50353,2024-11-12,401,8,10483,1,28.14,0.18,8.1,23.07,14.97,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50354,2024-11-22,301,6,10019,1,492.09,0.12,278.87,433.04,154.17,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50355,2024-12-07,301,7,10309,1,519.65,0.08,279.78,478.08,198.3,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50356,2024-11-11,403,7,10191,2,137.81,0.05,42.11,261.84,177.62,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50357,2024-09-04,302,5,10299,1,650.76,0.04,326.13,624.73,298.6,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50358,2024-12-03,302,4,10428,1,551.06,0.18,309.25,451.87,142.62,USA,Wholesale,Tablets,iPad,iPad Air 5
+50359,2024-09-06,102,3,10419,1,1636.78,0.05,946.25,1554.94,608.69,UK,Retail,Laptops,Gaming,Predator X15
+50360,2024-01-09,402,7,10351,1,65.54,0.12,17.59,57.68,40.09,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50361,2024-01-04,301,2,10160,1,530.24,0.13,256.18,461.31,205.13,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50362,2024-09-29,402,6,10108,2,61.6,0.29,18.05,87.47,51.37,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50363,2024-10-09,101,1,10176,2,1309.54,0.15,747.34,2226.22,731.54,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50364,2024-07-29,201,1,10680,2,1222.98,0.18,681.48,2005.69,642.73,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50365,2024-01-07,403,7,10305,2,127.42,0.16,45.67,214.07,122.73,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50366,2024-01-09,201,7,10237,1,1167.95,0.1,688.57,1051.16,362.59,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50367,2024-09-28,402,6,10511,1,57.39,0.02,16.68,56.24,39.56,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50368,2024-05-20,402,8,10277,1,58.58,0.05,18.27,55.65,37.38,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50369,2024-10-01,301,5,10207,1,450.42,0.04,265.21,432.4,167.19,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50370,2024-05-26,103,6,10688,2,973.22,0.26,597.05,1440.37,246.27,Europe,Retail,Laptops,Business,ThinkPro 13
+50371,2024-01-09,201,1,10481,4,1252.46,0.04,678.64,4809.45,2094.89,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50372,2024-09-14,102,1,10590,1,1470.49,0.1,947.76,1323.44,375.68,Europe,Online,Laptops,Gaming,Predator X15
+50373,2024-12-23,301,2,10164,1,453.45,0.2,255.67,362.76,107.09,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50374,2024-12-11,101,7,10158,1,1212.54,0.21,797.27,957.91,160.64,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50375,2024-08-08,102,6,10183,1,1586.18,0.05,996.31,1506.87,510.56,Europe,Retail,Laptops,Gaming,Predator X15
+50376,2024-04-01,402,3,10655,1,58.8,0.07,17.42,54.68,37.26,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50377,2024-02-24,403,5,10097,3,127.29,0.05,46.98,362.78,221.84,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50378,2024-02-19,403,4,10447,1,127.61,0.23,45.56,98.26,52.7,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50379,2024-09-25,201,6,10384,2,1255.78,0.18,689.15,2059.48,681.18,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50380,2024-03-17,403,3,10596,1,119.79,0.15,44.05,101.82,57.77,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50381,2024-05-03,401,7,10038,1,27.65,0.23,8.11,21.29,13.18,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50382,2024-04-08,102,4,10066,1,1581.42,0.16,970.17,1328.39,358.22,USA,Wholesale,Laptops,Gaming,Predator X15
+50383,2024-11-13,101,6,10394,1,1157.93,0.24,726.63,880.03,153.4,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50384,2024-09-26,202,6,10055,3,1360.39,0.1,698.39,3673.05,1577.88,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50385,2024-05-09,101,2,10212,1,1159.52,0.25,729.74,869.64,139.9,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50386,2024-06-30,201,8,10453,3,1209.37,0.13,686.93,3156.46,1095.67,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50387,2024-05-16,301,7,10204,1,509.74,0.1,255.69,458.77,203.08,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50388,2024-07-22,301,7,10247,1,455.39,0.14,261.22,391.64,130.42,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50389,2024-02-10,302,5,10122,1,640.54,0.16,336.76,538.05,201.29,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50390,2024-07-10,402,2,10410,1,57.41,0.02,17.95,56.26,38.31,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50391,2024-07-26,201,3,10344,1,1203.69,0.28,664.79,866.66,201.87,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50392,2024-08-23,301,6,10444,1,537.96,0.21,268.69,424.99,156.3,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50393,2024-10-16,102,3,10401,1,1547.01,0.03,955.37,1500.6,545.23,UK,Retail,Laptops,Gaming,Predator X15
+50394,2024-05-04,402,4,10113,1,57.19,0.22,17.8,44.61,26.81,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50395,2024-12-22,401,6,10299,2,29.28,0.07,7.81,54.46,38.84,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50396,2024-04-25,402,7,10322,1,61.21,0.23,17.12,47.13,30.01,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50397,2024-06-02,402,7,10072,3,60.67,0.09,18.82,165.63,109.17,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50398,2024-12-16,202,7,10086,1,1263.5,0.24,732.34,960.26,227.92,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50399,2024-02-11,101,8,10383,1,1160.99,0.02,748.2,1137.77,389.57,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50400,2024-11-30,401,1,10242,2,28.86,0.12,8.23,50.79,34.33,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50401,2024-11-28,202,7,10368,2,1471.65,0.06,755.7,2766.7,1255.3,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50402,2024-01-17,102,2,10506,1,1453.65,0.29,954.98,1032.09,77.11,UK,Retail,Laptops,Gaming,Predator X15
+50403,2024-02-17,301,6,10604,1,480.98,0.18,274.03,394.4,120.37,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50404,2024-07-26,403,7,10232,1,134.59,0.07,45.93,125.17,79.24,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50405,2024-07-13,401,4,10674,1,32.6,0.06,7.95,30.64,22.69,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50406,2024-07-12,301,4,10075,2,533.54,0.09,262.19,971.04,446.66,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50407,2024-10-09,402,8,10322,1,58.4,0.03,17.95,56.65,38.7,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50408,2024-08-31,103,8,10281,1,960.62,0.1,648.09,864.56,216.47,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50409,2024-01-29,202,8,10230,1,1221.49,0.13,768.73,1062.7,293.97,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50410,2024-11-22,102,3,10094,1,1465.93,0.04,986.24,1407.29,421.05,UK,Retail,Laptops,Gaming,Predator X15
+50411,2024-01-05,401,8,10240,1,31.64,0.11,8.25,28.16,19.91,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50412,2024-12-25,103,3,10644,1,1009.2,0.01,605.97,999.11,393.14,UK,Retail,Laptops,Business,ThinkPro 13
+50413,2024-03-28,401,3,10646,1,29.65,0.25,8.21,22.24,14.03,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50414,2024-02-12,301,8,10606,2,462.54,0.2,265.43,740.06,209.2,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50415,2024-09-12,402,6,10671,5,59.55,0.06,19.41,279.88,182.83,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50416,2024-08-10,101,8,10391,1,1180.48,0.09,722.45,1074.24,351.79,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50417,2024-11-26,403,2,10441,1,128.18,0.08,45.96,117.93,71.97,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50418,2024-06-18,302,6,10205,1,559.02,0.02,334.23,547.84,213.61,Europe,Retail,Tablets,iPad,iPad Air 5
+50419,2024-10-16,301,4,10477,2,488.13,0.16,269.84,820.06,280.38,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50420,2024-02-18,202,1,10480,1,1349.42,0.12,715.67,1187.49,471.82,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50421,2024-09-27,402,4,10015,1,61.75,0.21,18.32,48.78,30.46,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50422,2024-01-22,401,8,10533,1,32.86,0.08,8.02,30.23,22.21,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50423,2024-04-27,201,5,10542,2,1098.28,0.06,670.59,2064.77,723.59,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50424,2024-04-18,401,2,10184,1,32.9,0.22,8.01,25.66,17.65,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50425,2024-12-20,202,5,10516,1,1280.58,0.17,792.19,1062.88,270.69,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50426,2024-10-17,401,4,10162,1,30.29,0.15,7.92,25.75,17.83,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50427,2024-08-31,102,4,10250,2,1519.39,0.09,956.52,2765.29,852.25,USA,Wholesale,Laptops,Gaming,Predator X15
+50428,2024-05-18,202,4,10238,1,1346.82,0.05,752.5,1279.48,526.98,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50429,2024-01-24,201,1,10674,1,1185.53,0.02,667.76,1161.82,494.06,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50430,2024-02-08,103,8,10658,1,1035.95,0.04,636.87,994.51,357.64,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50431,2024-12-16,402,5,10270,1,56.39,0.16,17.16,47.37,30.21,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50432,2024-05-23,301,4,10208,1,505.54,0.25,256.75,379.16,122.41,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50433,2024-10-05,103,8,10086,1,948.99,0.17,623.88,787.66,163.78,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50434,2024-10-15,402,8,10690,4,61.38,0.02,17.83,240.61,169.29,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50435,2024-12-02,101,2,10251,1,1295.57,0.18,732.76,1062.37,329.61,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50436,2024-01-17,403,6,10496,2,135.23,0.16,43.46,227.19,140.27,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50437,2024-04-01,202,6,10593,1,1282.56,0.14,752,1103,351,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50438,2024-06-10,403,6,10303,1,120.31,0.04,46.58,115.5,68.92,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50439,2024-01-09,401,6,10594,1,24.6,0.13,8.06,21.4,13.34,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50440,2024-04-16,101,5,10524,1,1301.59,0.02,754.43,1275.56,521.13,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50441,2024-10-27,401,5,10459,2,26.96,0.03,8.05,52.3,36.2,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50442,2024-03-14,302,3,10243,1,571.88,0.04,321.29,549,227.71,UK,Retail,Tablets,iPad,iPad Air 5
+50443,2024-12-30,102,3,10349,1,1427.27,0.17,999.8,1184.63,184.83,UK,Retail,Laptops,Gaming,Predator X15
+50444,2024-07-22,401,8,10407,1,28.23,0.01,8.04,27.95,19.91,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50445,2024-02-09,201,7,10633,1,1192.22,0.09,702.87,1084.92,382.05,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50446,2024-06-02,102,2,10137,1,1662.39,0.09,937.85,1512.77,574.92,UK,Retail,Laptops,Gaming,Predator X15
+50447,2024-03-24,103,4,10541,1,930.24,0.2,594.19,744.19,150,USA,Wholesale,Laptops,Business,ThinkPro 13
+50448,2024-10-15,401,4,10612,1,30.75,0.06,7.79,28.9,21.11,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50449,2024-05-03,202,8,10402,1,1363.27,0.07,730.21,1267.84,537.63,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50450,2024-10-17,102,6,10490,1,1528.54,0.09,929.41,1390.97,461.56,Europe,Retail,Laptops,Gaming,Predator X15
+50451,2024-07-18,102,3,10121,1,1476.72,0.17,960.15,1225.68,265.53,UK,Retail,Laptops,Gaming,Predator X15
+50452,2024-12-12,201,4,10023,1,1166.23,0.06,664.78,1096.26,431.48,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50453,2024-10-03,401,7,10674,1,28.24,0.06,8.11,26.55,18.44,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50454,2024-06-18,403,4,10453,2,132.84,0.21,43.79,209.89,122.31,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50455,2024-07-15,301,3,10187,1,493.3,0.29,262.53,350.24,87.71,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50456,2024-03-12,102,3,10458,1,1523.46,0.18,951.75,1249.24,297.49,UK,Retail,Laptops,Gaming,Predator X15
+50457,2024-12-18,301,1,10494,1,521.77,0.15,273.19,443.5,170.31,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50458,2024-02-10,301,1,10452,1,496.39,0.13,259.36,431.86,172.5,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50459,2024-09-13,202,3,10344,2,1290.58,0.25,735.68,1935.87,464.51,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50460,2024-06-26,302,6,10330,1,544.79,0.05,302.93,517.55,214.62,Europe,Retail,Tablets,iPad,iPad Air 5
+50461,2024-01-28,103,3,10520,1,977.49,0.25,594.3,733.12,138.82,UK,Retail,Laptops,Business,ThinkPro 13
+50462,2024-02-20,402,1,10376,1,65.09,0.11,18.46,57.93,39.47,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50463,2024-08-11,403,1,10231,1,119.79,0.19,42.96,97.03,54.07,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50464,2024-04-28,102,3,10402,1,1517.19,0.29,946.33,1077.2,130.87,UK,Retail,Laptops,Gaming,Predator X15
+50465,2024-02-08,102,5,10466,1,1467.86,0.01,973.75,1453.18,479.43,Asia,Partner Store,Laptops,Gaming,Predator X15
+50466,2024-06-23,201,2,10145,2,1330.64,0.24,669.22,2022.57,684.13,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50467,2024-11-05,102,6,10569,1,1496.87,0.04,932.19,1437,504.81,Europe,Retail,Laptops,Gaming,Predator X15
+50468,2024-11-10,101,1,10682,1,1147.11,0.02,705.2,1124.17,418.97,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50469,2024-10-31,101,6,10088,1,1275.53,0.02,710.43,1250.02,539.59,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50470,2024-07-22,101,2,10588,1,1168.89,0.26,751.03,864.98,113.95,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50471,2024-06-16,302,2,10643,1,665.87,0.07,314.32,619.26,304.94,UK,Retail,Tablets,iPad,iPad Air 5
+50472,2024-01-16,102,5,10442,2,1490.83,0.18,958.01,2444.96,528.94,Asia,Partner Store,Laptops,Gaming,Predator X15
+50473,2024-11-20,402,1,10349,1,57.43,0.04,18.09,55.13,37.04,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50474,2024-05-19,402,7,10433,2,58.07,0.07,17.78,108.01,72.45,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50475,2024-08-18,201,3,10146,1,1149.17,0.25,660.65,861.88,201.23,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50476,2024-09-08,202,4,10593,1,1129.26,0.12,752.18,993.75,241.57,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50477,2024-04-26,101,1,10174,1,1211.3,0.09,749.79,1102.28,352.49,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50478,2024-07-01,401,3,10356,1,31.27,0.2,8.08,25.02,16.94,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50479,2024-10-10,103,7,10319,1,1011.8,0.08,627.25,930.86,303.61,USA,Wholesale,Laptops,Business,ThinkPro 13
+50480,2024-07-11,403,8,10124,1,131.11,0.02,44.51,128.49,83.98,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50481,2024-08-09,201,7,10002,1,1195.57,0.11,646.07,1064.06,417.99,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50482,2024-04-05,101,1,10308,1,1248.84,0.19,722.76,1011.56,288.8,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50483,2024-12-14,202,5,10293,1,1368.12,0.09,747.32,1244.99,497.67,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50484,2024-10-26,202,8,10443,1,1356.92,0.19,749.75,1099.11,349.36,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50485,2024-12-04,102,1,10145,1,1418.49,0.06,946.14,1333.38,387.24,Europe,Online,Laptops,Gaming,Predator X15
+50486,2024-07-13,201,2,10433,1,1260.37,0.12,695.46,1109.13,413.67,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50487,2024-02-13,201,3,10602,1,1268.65,0.18,690.94,1040.29,349.35,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50488,2024-11-12,101,6,10395,1,1283.31,0.21,738.34,1013.81,275.47,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50489,2024-05-31,201,1,10423,1,1213.59,0.05,707.21,1152.91,445.7,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50490,2024-05-06,302,7,10120,1,590.16,0.1,330.28,531.14,200.86,USA,Wholesale,Tablets,iPad,iPad Air 5
+50491,2024-12-31,401,5,10549,1,29.81,0.08,8.07,27.43,19.36,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50492,2024-02-07,101,6,10585,1,1150.24,0.19,747.1,931.69,184.59,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50493,2024-02-12,302,4,10035,1,568.23,0.17,311.84,471.63,159.79,USA,Wholesale,Tablets,iPad,iPad Air 5
+50494,2024-05-17,102,7,10483,1,1513.54,0.23,972.18,1165.43,193.25,USA,Wholesale,Laptops,Gaming,Predator X15
+50495,2024-03-19,402,4,10282,1,54.5,0.22,17.88,42.51,24.63,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50496,2024-07-13,402,7,10659,1,61.24,0.22,17.48,47.77,30.29,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50497,2024-12-30,103,7,10579,1,939.78,0.09,616.76,855.2,238.44,USA,Wholesale,Laptops,Business,ThinkPro 13
+50498,2024-11-20,402,4,10460,3,64.91,0.07,17.95,181.1,127.25,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50499,2024-03-19,401,5,10027,1,31.73,0.07,7.48,29.51,22.03,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50500,2024-07-18,403,8,10656,1,148.76,0.19,44.27,120.5,76.23,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50501,2024-06-11,302,2,10544,1,637.49,0.16,317.48,535.49,218.01,UK,Retail,Tablets,iPad,iPad Air 5
+50502,2024-07-03,403,4,10345,1,124.97,0.2,45.17,99.98,54.81,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50503,2024-02-24,101,8,10397,2,1095.54,0,802.61,2191.08,585.86,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50504,2024-02-16,401,1,10586,1,30.19,0.04,7.99,28.98,20.99,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50505,2024-01-03,302,7,10299,1,602.98,0.05,296.9,572.83,275.93,USA,Wholesale,Tablets,iPad,iPad Air 5
+50506,2024-06-06,301,6,10099,1,499.44,0.28,273.52,359.6,86.08,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50507,2024-08-15,402,4,10395,1,60.11,0.21,17.55,47.49,29.94,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50508,2024-07-03,401,4,10058,1,31.33,0.1,8.11,28.2,20.09,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50509,2024-05-18,302,6,10081,2,583.76,0.04,323.09,1120.82,474.64,Europe,Retail,Tablets,iPad,iPad Air 5
+50510,2024-02-22,202,5,10145,1,1307.18,0.16,716.75,1098.03,381.28,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50511,2024-03-08,201,5,10448,2,1124.92,0.16,682.02,1889.87,525.83,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50512,2024-02-14,302,4,10149,1,611.69,0.23,336.8,471,134.2,USA,Wholesale,Tablets,iPad,iPad Air 5
+50513,2024-04-05,102,2,10143,1,1462.81,0.02,895.72,1433.55,537.83,UK,Retail,Laptops,Gaming,Predator X15
+50514,2024-08-08,103,4,10580,1,1016.85,0.16,625.88,854.15,228.27,USA,Wholesale,Laptops,Business,ThinkPro 13
+50515,2024-08-17,302,7,10236,1,603.48,0.11,311.32,537.1,225.78,USA,Wholesale,Tablets,iPad,iPad Air 5
+50516,2024-10-12,103,1,10082,1,1021.8,0.14,626.18,878.75,252.57,Europe,Online,Laptops,Business,ThinkPro 13
+50517,2024-10-11,301,4,10091,1,494.38,0.16,275.4,415.28,139.88,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50518,2024-09-19,201,6,10038,1,1269.4,0.25,682.79,952.05,269.26,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50519,2024-07-27,401,7,10659,2,27.55,0.19,8.08,44.63,28.47,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50520,2024-02-22,401,5,10296,1,30.39,0.09,8.67,27.65,18.98,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50521,2024-01-14,401,1,10364,2,27.15,0.04,7.74,52.13,36.65,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50522,2024-02-15,301,1,10355,1,484.94,0.04,277.67,465.54,187.87,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50523,2024-06-30,302,5,10502,1,637.4,0.19,307.9,516.29,208.39,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50524,2024-10-10,302,3,10269,1,600.16,0.26,307.28,444.12,136.84,UK,Retail,Tablets,iPad,iPad Air 5
+50525,2024-02-17,403,4,10547,1,138.94,0.2,45.44,111.15,65.71,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50526,2024-11-01,202,8,10041,1,1330.73,0.12,728.97,1171.04,442.07,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50527,2024-11-02,401,1,10686,1,24.49,0.02,8.46,24,15.54,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50528,2024-06-15,102,2,10677,1,1523.95,0.02,921.78,1493.47,571.69,UK,Retail,Laptops,Gaming,Predator X15
+50529,2024-07-16,201,4,10684,2,1179.77,0.12,684.82,2076.4,706.76,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50530,2024-01-07,102,6,10628,2,1413.3,0.03,927.79,2741.8,886.22,Europe,Retail,Laptops,Gaming,Predator X15
+50531,2024-05-29,402,1,10152,1,58.46,0.13,17.82,50.86,33.04,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50532,2024-07-30,402,4,10024,1,51.66,0.1,18.78,46.49,27.71,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50533,2024-07-17,103,1,10524,2,998.47,0.05,651.53,1897.09,594.03,Europe,Online,Laptops,Business,ThinkPro 13
+50534,2024-02-13,103,2,10292,1,1036.07,0.09,574.19,942.82,368.63,UK,Retail,Laptops,Business,ThinkPro 13
+50535,2024-10-13,102,4,10200,1,1480.58,0.13,941.37,1288.1,346.73,USA,Wholesale,Laptops,Gaming,Predator X15
+50536,2024-05-04,102,8,10370,2,1371.39,0.15,934.1,2331.36,463.16,Europe,Partner Store,Laptops,Gaming,Predator X15
+50537,2024-10-19,402,3,10469,2,61.63,0.09,17.86,112.17,76.45,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50538,2024-09-23,403,6,10541,1,136.45,0.24,44.12,103.7,59.58,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50539,2024-03-27,403,3,10421,2,138.1,0.13,46.67,240.29,146.95,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50540,2024-12-16,102,8,10201,2,1529.88,0.01,939.81,3029.16,1149.54,Europe,Partner Store,Laptops,Gaming,Predator X15
+50541,2024-07-13,201,2,10198,1,1257.79,0.29,679.42,893.03,213.61,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50542,2024-03-27,403,3,10314,2,131.82,0,45.64,263.64,172.36,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50543,2024-03-12,202,3,10452,2,1270.56,0.23,772.72,1956.66,411.22,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50544,2024-05-17,102,5,10121,1,1504.04,0,926.02,1504.04,578.02,Asia,Partner Store,Laptops,Gaming,Predator X15
+50545,2024-06-03,201,3,10396,2,1248.1,0.29,652.41,1772.3,467.48,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50546,2024-05-17,403,3,10284,1,125.82,0.29,46.27,89.33,43.06,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50547,2024-09-09,401,7,10624,2,30.78,0.08,7.94,56.64,40.76,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50548,2024-03-15,302,3,10571,1,595.93,0.03,318.67,578.05,259.38,UK,Retail,Tablets,iPad,iPad Air 5
+50549,2024-02-02,302,5,10326,1,563.67,0.04,307.19,541.12,233.93,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50550,2024-03-26,401,1,10146,1,29.67,0.05,8.12,28.19,20.07,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50551,2024-08-10,401,4,10438,1,27.58,0.18,7.87,22.62,14.75,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50552,2024-05-21,102,8,10266,1,1474.92,0.03,966.6,1430.67,464.07,Europe,Partner Store,Laptops,Gaming,Predator X15
+50553,2024-08-03,401,6,10336,1,27.19,0.14,8.42,23.38,14.96,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50554,2024-06-02,103,4,10644,1,925.24,0.21,654.24,730.94,76.7,USA,Wholesale,Laptops,Business,ThinkPro 13
+50555,2024-09-04,101,1,10277,1,1268.4,0.17,710.29,1052.77,342.48,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50556,2024-02-09,403,4,10553,1,125.61,0.09,48.13,114.31,66.18,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50557,2024-07-03,101,3,10203,2,1172.55,0.24,699.58,1782.28,383.12,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50558,2024-05-08,101,4,10653,1,1205.75,0.06,753.72,1133.4,379.68,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50559,2024-05-06,101,4,10361,1,1115.31,0.11,794.23,992.63,198.4,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50560,2024-11-16,102,1,10250,1,1417.43,0.08,922.53,1304.04,381.51,Europe,Online,Laptops,Gaming,Predator X15
+50561,2024-09-10,403,6,10568,1,137.61,0.21,44.81,108.71,63.9,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50562,2024-10-31,201,2,10535,1,1208.39,0.01,675.42,1196.31,520.89,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50563,2024-11-11,103,1,10393,1,969.59,0.11,628.99,862.94,233.95,Europe,Online,Laptops,Business,ThinkPro 13
+50564,2024-04-10,202,1,10603,1,1319.85,0.12,754.17,1161.47,407.3,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50565,2024-08-22,102,5,10565,2,1420.04,0.01,957.3,2811.68,897.08,Asia,Partner Store,Laptops,Gaming,Predator X15
+50566,2024-02-24,302,7,10699,1,594.7,0.15,316.55,505.5,188.95,USA,Wholesale,Tablets,iPad,iPad Air 5
+50567,2024-03-10,103,8,10212,1,987.25,0.11,634.46,878.65,244.19,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50568,2024-06-04,402,5,10181,2,60.14,0.08,18.05,110.66,74.56,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50569,2024-01-04,101,7,10281,1,1273.11,0.13,741.06,1107.61,366.55,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50570,2024-07-21,103,4,10095,1,958.78,0.2,609.64,767.02,157.38,USA,Wholesale,Laptops,Business,ThinkPro 13
+50571,2024-06-19,301,2,10457,2,500.79,0.12,283.22,881.39,314.95,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50572,2024-11-13,202,7,10290,2,1373.04,0.14,719.5,2361.63,922.63,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50573,2024-07-13,103,7,10635,2,995.22,0.19,617.89,1612.26,376.48,USA,Wholesale,Laptops,Business,ThinkPro 13
+50574,2024-06-17,302,4,10497,1,596.55,0.1,316.22,536.9,220.68,USA,Wholesale,Tablets,iPad,iPad Air 5
+50575,2024-08-13,201,6,10028,2,1290.09,0.2,690.46,2064.14,683.22,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50576,2024-06-20,101,8,10278,1,1180.04,0.19,750.48,955.83,205.35,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50577,2024-08-08,202,8,10050,2,1326.78,0.17,772.97,2202.45,656.51,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50578,2024-11-29,101,1,10365,2,1227.77,0.18,772.48,2013.54,468.58,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50579,2024-10-31,401,1,10146,1,30.61,0.16,8.32,25.71,17.39,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50580,2024-03-10,403,5,10301,1,133.85,0.18,42.91,109.76,66.85,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50581,2024-06-02,101,8,10296,2,1144.37,0.01,784.97,2265.85,695.91,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50582,2024-06-13,102,1,10394,2,1438.66,0.17,929.77,2388.18,528.64,Europe,Online,Laptops,Gaming,Predator X15
+50583,2024-11-04,101,3,10298,2,1166.05,0.17,717.96,1935.64,499.72,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50584,2024-12-21,301,5,10474,1,506.52,0.13,263.07,440.67,177.6,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50585,2024-04-12,402,2,10088,1,63.62,0.24,18.42,48.35,29.93,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50586,2024-09-02,403,2,10186,1,123.14,0.29,46.16,87.43,41.27,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50587,2024-06-09,302,5,10123,1,615.98,0.01,325.83,609.82,283.99,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50588,2024-03-31,301,4,10644,1,429.65,0.15,281.45,365.2,83.75,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50589,2024-07-22,101,5,10597,1,1099.33,0.11,784.09,978.4,194.31,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50590,2024-06-12,302,1,10606,2,574.09,0.14,327.66,987.43,332.11,Europe,Online,Tablets,iPad,iPad Air 5
+50591,2024-05-29,402,3,10479,1,59.16,0.3,17.81,41.41,23.6,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50592,2024-12-21,102,6,10621,1,1520.98,0.17,987.39,1262.41,275.02,Europe,Retail,Laptops,Gaming,Predator X15
+50593,2024-11-20,102,1,10122,1,1541.99,0.04,950.19,1480.31,530.12,Europe,Online,Laptops,Gaming,Predator X15
+50594,2024-09-08,103,8,10430,1,988.22,0.09,616.92,899.28,282.36,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50595,2024-10-21,301,3,10152,1,480.71,0.14,264.4,413.41,149.01,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50596,2024-05-04,103,7,10551,2,992.78,0.06,594.2,1866.43,678.03,USA,Wholesale,Laptops,Business,ThinkPro 13
+50597,2024-06-15,403,3,10285,1,119.13,0.25,44.57,89.35,44.78,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50598,2024-07-11,301,2,10412,2,522.87,0.19,260.67,847.05,325.71,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50599,2024-05-23,102,4,10674,2,1542.44,0.09,919.26,2807.24,968.72,USA,Wholesale,Laptops,Gaming,Predator X15
+50600,2024-07-20,202,5,10365,2,1386.21,0.15,728.36,2356.56,899.84,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50601,2024-07-05,101,4,10528,2,1157.25,0.07,727.61,2152.48,697.26,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50602,2024-02-28,402,8,10677,1,60.75,0.18,17.52,49.82,32.3,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50603,2024-10-15,403,7,10400,2,119.67,0.07,44.7,222.59,133.19,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50604,2024-04-12,402,2,10204,1,60.08,0.21,18.23,47.46,29.23,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50605,2024-10-30,201,5,10404,1,1192.3,0.18,662.84,977.69,314.85,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50606,2024-10-06,201,7,10176,1,1273.15,0.2,675.02,1018.52,343.5,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50607,2024-04-02,403,7,10187,2,127.5,0.23,43.78,196.35,108.79,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50608,2024-12-15,103,4,10060,1,995.35,0.09,616.38,905.77,289.39,USA,Wholesale,Laptops,Business,ThinkPro 13
+50609,2024-10-08,401,3,10528,1,26.44,0.18,8.02,21.68,13.66,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50610,2024-01-14,103,1,10483,1,979.47,0.09,600.23,891.32,291.09,Europe,Online,Laptops,Business,ThinkPro 13
+50611,2024-08-24,201,5,10100,3,1060.07,0.19,706.01,2575.97,457.94,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50612,2024-12-28,102,6,10502,1,1592.85,0,906.85,1592.85,686,Europe,Retail,Laptops,Gaming,Predator X15
+50613,2024-04-17,202,6,10565,2,1214.02,0.27,735.05,1772.47,302.37,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50614,2024-08-12,201,3,10004,1,1194.62,0.29,701.22,848.18,146.96,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50615,2024-05-29,301,6,10520,1,519.24,0.02,275.76,508.86,233.1,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50616,2024-12-20,201,6,10551,2,1209.76,0.03,709.18,2346.93,928.57,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50617,2024-02-05,103,2,10418,2,984.8,0.08,623.19,1812.03,565.65,UK,Retail,Laptops,Business,ThinkPro 13
+50618,2024-07-28,403,5,10110,1,124.87,0.01,44.25,123.62,79.37,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50619,2024-12-10,103,7,10302,2,1017.86,0.09,585.69,1852.51,681.13,USA,Wholesale,Laptops,Business,ThinkPro 13
+50620,2024-09-12,301,7,10162,1,491.77,0.25,273.13,368.83,95.7,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50621,2024-03-12,301,6,10241,1,498.12,0.21,271.79,393.51,121.72,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50622,2024-11-20,403,6,10584,1,133.74,0.02,44.65,131.07,86.42,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50623,2024-06-04,102,5,10061,1,1610.96,0.12,983.72,1417.64,433.92,Asia,Partner Store,Laptops,Gaming,Predator X15
+50624,2024-05-03,201,5,10088,1,1191.59,0.16,659.71,1000.94,341.23,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50625,2024-05-09,302,4,10472,1,651.57,0.09,323.37,592.93,269.56,USA,Wholesale,Tablets,iPad,iPad Air 5
+50626,2024-12-03,403,8,10511,1,129.78,0.13,41.55,112.91,71.36,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50627,2024-03-19,202,1,10433,1,1350.43,0.07,718.81,1255.9,537.09,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50628,2024-08-04,302,7,10061,1,561.3,0.11,316.76,499.56,182.8,USA,Wholesale,Tablets,iPad,iPad Air 5
+50629,2024-07-12,403,6,10525,1,125.6,0.16,46.59,105.5,58.91,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50630,2024-02-07,301,6,10388,1,493.81,0.08,277.12,454.31,177.19,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50631,2024-08-17,201,7,10507,1,1205.63,0.16,679.6,1012.73,333.13,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50632,2024-11-02,101,8,10123,2,1246.37,0.11,767.27,2218.54,684,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50633,2024-09-02,301,7,10656,1,481.45,0.16,275.28,404.42,129.14,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50634,2024-10-25,402,2,10619,1,57.36,0.15,18.16,48.76,30.6,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50635,2024-07-24,201,6,10073,1,1123.02,0.27,682.31,819.8,137.49,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50636,2024-09-30,201,3,10166,1,1315.23,0.16,676.46,1104.79,428.33,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50637,2024-09-16,102,5,10667,1,1427.09,0.2,986.92,1141.67,154.75,Asia,Partner Store,Laptops,Gaming,Predator X15
+50638,2024-12-20,403,4,10320,1,126.49,0.16,46.53,106.25,59.72,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50639,2024-08-02,301,8,10475,1,556.65,0.04,271.95,534.38,262.43,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50640,2024-10-05,402,7,10621,1,62.96,0.15,16.64,53.52,36.88,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50641,2024-01-19,302,2,10164,2,575.89,0.18,325.17,944.46,294.12,UK,Retail,Tablets,iPad,iPad Air 5
+50642,2024-07-03,101,3,10679,1,1257.82,0.28,779.67,905.63,125.96,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50643,2024-12-25,202,1,10421,1,1245.53,0.07,741.67,1158.34,416.67,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50644,2024-10-01,103,5,10289,1,1017.62,0.12,632.47,895.51,263.04,Asia,Partner Store,Laptops,Business,ThinkPro 13
+50645,2024-10-31,202,2,10244,1,1313.63,0.07,763.86,1221.68,457.82,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50646,2024-11-22,402,1,10335,1,59.78,0.13,18.37,52.01,33.64,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50647,2024-02-13,302,5,10350,1,670.03,0.09,328.08,609.73,281.65,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50648,2024-02-25,402,4,10186,2,60.31,0.06,18.21,113.38,76.96,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50649,2024-05-07,103,8,10060,2,1140.37,0.09,638.26,2075.47,798.95,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50650,2024-12-02,402,6,10570,1,53.32,0.01,17.74,52.79,35.05,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50651,2024-12-06,201,6,10515,1,1224.1,0.17,697.8,1016,318.2,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50652,2024-06-30,202,8,10150,1,1222.42,0.01,724.21,1210.2,485.99,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50653,2024-03-26,101,5,10497,1,1157.78,0.07,732.3,1076.74,344.44,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50654,2024-11-27,401,8,10527,1,28.95,0.07,8.38,26.92,18.54,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50655,2024-11-09,302,3,10696,2,576.36,0.24,330.55,876.07,214.97,UK,Retail,Tablets,iPad,iPad Air 5
+50656,2024-01-23,403,1,10041,1,128.46,0.13,46.66,111.76,65.1,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50657,2024-10-15,401,4,10632,1,30.95,0.13,7.89,26.93,19.04,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50658,2024-11-26,103,8,10481,1,1014.44,0.06,612.19,953.57,341.38,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50659,2024-12-12,202,4,10254,1,1150.08,0.17,727.11,954.57,227.46,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50660,2024-11-27,102,8,10196,1,1435.01,0.04,978.02,1377.61,399.59,Europe,Partner Store,Laptops,Gaming,Predator X15
+50661,2024-07-23,402,3,10260,2,58.62,0.1,18.42,105.52,68.68,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50662,2024-06-18,403,6,10603,1,133.71,0.13,45.2,116.33,71.13,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50663,2024-08-08,401,8,10601,1,30.22,0.16,7.99,25.38,17.39,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50664,2024-02-24,101,5,10243,1,1130.05,0.09,757.38,1028.35,270.97,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50665,2024-01-06,301,5,10553,1,486.49,0.07,265.93,452.44,186.51,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50666,2024-02-20,302,8,10295,1,587.79,0.06,312.06,552.52,240.46,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50667,2024-05-12,102,5,10351,5,1650.04,0.11,972.97,7342.68,2477.83,Asia,Partner Store,Laptops,Gaming,Predator X15
+50668,2024-04-23,403,7,10112,1,133.47,0.06,46.56,125.46,78.9,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50669,2024-09-18,202,3,10536,1,1295.41,0.15,742.71,1101.1,358.39,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50670,2024-09-22,403,4,10162,1,123.21,0.12,44.11,108.42,64.31,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50671,2024-10-12,301,8,10242,1,542.59,0.02,266.15,531.74,265.59,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50672,2024-10-24,103,2,10567,1,1007.48,0.3,627.78,705.24,77.46,UK,Retail,Laptops,Business,ThinkPro 13
+50673,2024-12-18,103,6,10289,1,963.27,0.07,605.33,895.84,290.51,Europe,Retail,Laptops,Business,ThinkPro 13
+50674,2024-10-21,101,2,10678,2,1167.44,0.07,782.33,2171.44,606.78,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50675,2024-04-23,301,3,10392,1,532.2,0.19,270.16,431.08,160.92,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50676,2024-08-16,302,8,10243,1,596.8,0.05,307.28,566.96,259.68,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50677,2024-07-10,202,8,10300,1,1296.06,0,758.24,1296.06,537.82,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50678,2024-07-19,102,5,10682,1,1476.41,0.02,974.2,1446.88,472.68,Asia,Partner Store,Laptops,Gaming,Predator X15
+50679,2024-08-25,402,5,10086,1,58.91,0.2,17.38,47.13,29.75,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50680,2024-12-13,403,7,10349,2,118.82,0.19,47.06,192.49,98.37,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50681,2024-10-28,302,5,10496,2,582.43,0.04,302.11,1118.27,514.05,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50682,2024-12-19,103,1,10560,2,1030.71,0,604.72,2061.42,851.98,Europe,Online,Laptops,Business,ThinkPro 13
+50683,2024-09-13,201,1,10507,1,1114.21,0.02,688.27,1091.93,403.66,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50684,2024-03-18,202,2,10131,2,1355.15,0.25,737.24,2032.72,558.24,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50685,2024-06-25,401,8,10581,1,30,0.06,8.23,28.2,19.97,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50686,2024-01-13,102,3,10085,1,1554.16,0.27,931.65,1134.54,202.89,UK,Retail,Laptops,Gaming,Predator X15
+50687,2024-09-04,101,7,10187,1,1183.79,0.08,758.84,1089.09,330.25,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50688,2024-02-23,201,6,10519,1,1216.83,0.2,669.98,973.46,303.48,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50689,2024-05-31,201,6,10022,1,1202.71,0.14,644.31,1034.33,390.02,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50690,2024-07-31,301,3,10298,1,520.79,0.14,274.14,447.88,173.74,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50691,2024-02-13,103,6,10425,1,1027.77,0.18,642.33,842.77,200.44,Europe,Retail,Laptops,Business,ThinkPro 13
+50692,2024-02-29,401,3,10423,1,30.83,0.08,7.95,28.36,20.41,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50693,2024-03-13,402,6,10497,1,57.81,0.04,18.4,55.5,37.1,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50694,2024-06-27,302,7,10104,4,584.6,0.11,318.85,2081.18,805.78,USA,Wholesale,Tablets,iPad,iPad Air 5
+50695,2024-06-08,401,3,10099,1,31.62,0.05,7.63,30.04,22.41,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50696,2024-06-24,301,5,10218,1,538.42,0.02,271.62,527.65,256.03,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50697,2024-08-21,103,4,10696,2,1061.87,0.05,625.25,2017.55,767.05,USA,Wholesale,Laptops,Business,ThinkPro 13
+50698,2024-04-15,302,6,10690,1,579.66,0.26,321.32,428.95,107.63,Europe,Retail,Tablets,iPad,iPad Air 5
+50699,2024-09-23,101,4,10066,1,1195.47,0.24,755.88,908.56,152.68,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50700,2024-09-04,102,8,10624,1,1550.91,0.01,955.54,1535.4,579.86,Europe,Partner Store,Laptops,Gaming,Predator X15
+50701,2024-06-27,202,1,10694,2,1355.55,0.02,729.87,2656.88,1197.14,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50702,2024-08-31,201,7,10345,1,1253.68,0.24,698.56,952.8,254.24,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50703,2024-02-19,102,7,10549,1,1565.79,0.17,961.04,1299.61,338.57,USA,Wholesale,Laptops,Gaming,Predator X15
+50704,2024-08-12,403,2,10314,1,120.62,0.25,44.52,90.46,45.94,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50705,2024-12-22,301,4,10635,2,434.63,0.25,272.05,651.94,107.84,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50706,2024-08-19,403,8,10283,1,136.88,0.2,46.4,109.5,63.1,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50707,2024-06-12,401,5,10387,1,29.51,0.13,8.15,25.67,17.52,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50708,2024-02-04,402,1,10151,1,60.98,0.07,17.56,56.71,39.15,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50709,2024-06-02,102,2,10178,1,1328.77,0.02,907.87,1302.19,394.32,UK,Retail,Laptops,Gaming,Predator X15
+50710,2024-01-23,301,5,10533,1,489.33,0.14,277.46,420.82,143.36,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50711,2024-12-29,201,6,10641,1,1201.59,0.19,726.5,973.29,246.79,Europe,Retail,Smartphones,Android,Galaxy S24 Ultra
+50712,2024-02-28,301,6,10262,1,493.67,0.22,259.78,385.06,125.28,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50713,2024-01-12,102,8,10596,2,1549.1,0.04,930.51,2974.27,1113.25,Europe,Partner Store,Laptops,Gaming,Predator X15
+50714,2024-06-24,302,8,10019,1,597.19,0.14,331.48,513.58,182.1,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50715,2024-11-27,401,4,10447,1,29.24,0.06,7.74,27.49,19.75,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50716,2024-02-25,103,7,10220,2,991.59,0.06,608.8,1864.19,646.59,USA,Wholesale,Laptops,Business,ThinkPro 13
+50717,2024-12-12,201,3,10630,1,1266.42,0.05,680.98,1203.1,522.12,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50718,2024-03-25,301,5,10167,1,480.74,0.1,267.92,432.67,164.75,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50719,2024-05-04,301,3,10134,2,517.39,0.21,258.8,817.48,299.88,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50720,2024-09-21,401,1,10157,2,29.33,0.04,7.78,56.31,40.75,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50721,2024-03-30,403,6,10667,1,122.69,0.2,44.15,98.15,54,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50722,2024-10-09,101,7,10481,2,1285.62,0.11,745.3,2288.4,797.8,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50723,2024-03-22,403,8,10312,1,136.11,0.08,45.24,125.22,79.98,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50724,2024-06-18,402,6,10096,1,59.81,0.27,17.2,43.66,26.46,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50725,2024-10-13,103,7,10535,1,1042.95,0.11,607.87,928.23,320.36,USA,Wholesale,Laptops,Business,ThinkPro 13
+50726,2024-08-06,403,8,10184,1,131.47,0.06,43.62,123.58,79.96,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50727,2024-08-24,402,1,10299,2,61.09,0.01,18.39,120.96,84.18,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50728,2024-04-28,102,4,10596,1,1576.9,0.08,916.44,1450.75,534.31,USA,Wholesale,Laptops,Gaming,Predator X15
+50729,2024-07-26,202,2,10700,2,1285.61,0.09,743.31,2339.81,853.19,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50730,2024-11-18,302,6,10092,1,611.62,0.06,307.89,574.92,267.03,Europe,Retail,Tablets,iPad,iPad Air 5
+50731,2024-04-04,302,4,10615,2,570.97,0.06,316.37,1073.42,440.68,USA,Wholesale,Tablets,iPad,iPad Air 5
+50732,2024-04-05,403,6,10185,1,130.05,0.21,43.21,102.74,59.53,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50733,2024-11-23,403,6,10491,1,125.54,0.16,45.02,105.45,60.43,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50734,2024-12-02,401,2,10010,1,30.67,0.17,7.9,25.46,17.56,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50735,2024-08-09,103,7,10361,1,972.27,0.21,645.28,768.09,122.81,USA,Wholesale,Laptops,Business,ThinkPro 13
+50736,2024-07-21,301,5,10447,2,507.13,0.01,282.26,1004.12,439.6,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50737,2024-01-15,102,8,10418,1,1489.34,0.13,934.58,1295.73,361.15,Europe,Partner Store,Laptops,Gaming,Predator X15
+50738,2024-11-10,102,1,10653,1,1432.49,0.13,1005.55,1246.27,240.72,Europe,Online,Laptops,Gaming,Predator X15
+50739,2024-04-11,102,2,10418,1,1491.92,0.07,965.44,1387.49,422.05,UK,Retail,Laptops,Gaming,Predator X15
+50740,2024-08-18,102,5,10021,2,1552.03,0.09,935.63,2824.69,953.43,Asia,Partner Store,Laptops,Gaming,Predator X15
+50741,2024-10-30,201,1,10502,1,1210.23,0.13,709.79,1052.9,343.11,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50742,2024-08-07,302,1,10272,1,590.89,0.11,323.88,525.89,202.01,Europe,Online,Tablets,iPad,iPad Air 5
+50743,2024-07-18,302,4,10262,1,567.02,0.22,323.75,442.28,118.53,USA,Wholesale,Tablets,iPad,iPad Air 5
+50744,2024-01-03,301,2,10528,1,545.13,0.11,273.92,485.17,211.25,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50745,2024-12-26,101,2,10607,2,1190.95,0.11,716.1,2119.89,687.69,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50746,2024-04-19,301,6,10212,1,482.03,0.01,268.61,477.21,208.6,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50747,2024-04-15,103,8,10563,1,1012.56,0.14,614.97,870.8,255.83,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50748,2024-05-22,402,5,10288,1,59.4,0.04,18.48,57.02,38.54,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50749,2024-12-26,102,7,10531,1,1613.55,0.19,958.13,1306.98,348.85,USA,Wholesale,Laptops,Gaming,Predator X15
+50750,2024-02-02,102,2,10088,1,1649.98,0.25,880.37,1237.49,357.12,UK,Retail,Laptops,Gaming,Predator X15
+50751,2024-10-22,103,3,10538,2,1061.33,0.28,662.04,1528.32,204.24,UK,Retail,Laptops,Business,ThinkPro 13
+50752,2024-02-22,103,2,10689,2,944.34,0.16,637.28,1586.49,311.93,UK,Retail,Laptops,Business,ThinkPro 13
+50753,2024-10-01,101,7,10044,1,1165.73,0.14,735.54,1002.53,266.99,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50754,2024-04-05,102,6,10163,1,1562.7,0.18,969.18,1281.41,312.23,Europe,Retail,Laptops,Gaming,Predator X15
+50755,2024-07-06,101,3,10658,1,1056.38,0.15,722.62,897.92,175.3,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50756,2024-06-15,101,2,10290,1,1225.1,0.28,769.95,882.07,112.12,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50757,2024-04-10,202,6,10450,1,1347.02,0.16,742.27,1131.5,389.23,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50758,2024-08-22,401,6,10502,2,30.09,0.04,8.16,57.77,41.45,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50759,2024-02-28,302,6,10461,2,637.95,0.09,331.62,1161.07,497.83,Europe,Retail,Tablets,iPad,iPad Air 5
+50760,2024-05-14,402,3,10388,1,62.36,0.11,18.09,55.5,37.41,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50761,2024-12-09,101,8,10190,2,1108.6,0.16,726.99,1862.45,408.47,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50762,2024-09-07,301,6,10184,2,472.47,0.11,267.24,841,306.52,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50763,2024-09-27,301,6,10283,1,478.61,0.27,270.24,349.39,79.15,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50764,2024-11-23,402,8,10501,1,61.76,0.04,17.97,59.29,41.32,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50765,2024-06-09,101,6,10521,1,1165.74,0.21,707.3,920.93,213.63,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50766,2024-11-01,103,7,10659,1,960.58,0.11,626.29,854.92,228.63,USA,Wholesale,Laptops,Business,ThinkPro 13
+50767,2024-07-17,201,7,10246,2,1196.52,0.09,698.96,2177.67,779.75,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50768,2024-11-08,102,8,10332,1,1495.25,0.01,928.32,1480.3,551.98,Europe,Partner Store,Laptops,Gaming,Predator X15
+50769,2024-07-19,103,4,10207,1,927.8,0.09,636.47,844.3,207.83,USA,Wholesale,Laptops,Business,ThinkPro 13
+50770,2024-10-27,403,6,10203,1,131.61,0.22,44.93,102.66,57.73,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50771,2024-02-28,102,6,10692,2,1491.95,0.26,958.23,2208.09,291.63,Europe,Retail,Laptops,Gaming,Predator X15
+50772,2024-06-27,202,2,10342,1,1428.9,0.05,763.66,1357.46,593.8,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50773,2024-06-29,302,8,10382,1,578.87,0.17,299.58,480.46,180.88,Europe,Partner Store,Tablets,iPad,iPad Air 5
+50774,2024-08-22,302,4,10493,1,568.84,0.11,333.43,506.27,172.84,USA,Wholesale,Tablets,iPad,iPad Air 5
+50775,2024-11-12,403,3,10555,1,120.62,0.04,47.29,115.8,68.51,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50776,2024-03-29,103,7,10277,1,1013.68,0.15,623.62,861.63,238.01,USA,Wholesale,Laptops,Business,ThinkPro 13
+50777,2024-12-10,402,8,10214,1,63.32,0.16,18.56,53.19,34.63,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50778,2024-12-27,302,4,10630,1,608.64,0.17,326.75,505.17,178.42,USA,Wholesale,Tablets,iPad,iPad Air 5
+50779,2024-06-01,101,6,10167,2,1173.84,0.14,738.9,2019,541.2,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50780,2024-11-10,302,4,10668,1,607.6,0.2,322.72,486.08,163.36,USA,Wholesale,Tablets,iPad,iPad Air 5
+50781,2024-10-29,302,5,10378,1,562.74,0.09,308.37,512.09,203.72,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50782,2024-02-13,202,3,10592,2,1309.26,0.15,793.93,2225.74,637.88,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50783,2024-12-10,202,5,10007,2,1353.42,0.13,771.97,2354.95,811.01,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50784,2024-03-09,102,2,10478,1,1458.1,0.23,929,1122.74,193.74,UK,Retail,Laptops,Gaming,Predator X15
+50785,2024-06-09,301,1,10132,2,479.89,0.04,280.37,921.39,360.65,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50786,2024-03-01,202,8,10259,1,1405.74,0.18,773.11,1152.71,379.6,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50787,2024-05-02,201,2,10697,1,1265.35,0.2,682.95,1012.28,329.33,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50788,2024-06-05,201,5,10395,1,1163.06,0.11,688.17,1035.12,346.95,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50789,2024-02-29,102,4,10250,2,1567.11,0.15,927.48,2664.09,809.13,USA,Wholesale,Laptops,Gaming,Predator X15
+50790,2024-04-03,302,1,10207,2,627.12,0.08,329.43,1153.9,495.04,Europe,Online,Tablets,iPad,iPad Air 5
+50791,2024-07-10,401,3,10666,1,29.02,0.27,8.45,21.18,12.73,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50792,2024-12-21,201,8,10427,1,1114.65,0.12,709.62,980.89,271.27,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50793,2024-03-13,401,8,10583,1,27.92,0.03,8.24,27.08,18.84,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50794,2024-09-18,402,6,10663,1,60.78,0.25,18.49,45.58,27.09,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50795,2024-07-17,301,1,10066,2,449.38,0.11,274.32,799.9,251.26,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50796,2024-08-02,102,7,10103,1,1574.83,0.2,983,1259.86,276.86,USA,Wholesale,Laptops,Gaming,Predator X15
+50797,2024-11-01,403,2,10699,1,122.69,0.05,42.8,116.56,73.76,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50798,2024-03-11,302,5,10131,1,636.09,0,330.52,636.09,305.57,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50799,2024-10-21,403,3,10103,1,128.28,0.08,45.84,118.02,72.18,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50800,2024-07-15,302,1,10387,1,570.99,0.13,318.5,496.76,178.26,Europe,Online,Tablets,iPad,iPad Air 5
+50801,2024-08-04,401,6,10248,1,28.72,0.02,7.85,28.15,20.3,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50802,2024-04-05,102,2,10046,1,1601.86,0.12,966.8,1409.64,442.84,UK,Retail,Laptops,Gaming,Predator X15
+50803,2024-09-06,403,7,10136,1,122.37,0.16,43.75,102.79,59.04,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50804,2024-11-21,403,3,10518,1,126.71,0,44.95,126.71,81.76,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50805,2024-10-02,201,5,10261,1,1175.84,0,650.06,1175.84,525.78,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50806,2024-12-21,101,8,10626,2,1280.42,0.03,748.23,2484.01,987.55,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50807,2024-11-26,402,8,10527,2,61.18,0.02,18.1,119.91,83.71,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50808,2024-03-29,402,7,10555,1,61.45,0.19,17.53,49.77,32.24,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50809,2024-10-11,102,3,10386,3,1390.59,0.15,919.78,3546,786.66,UK,Retail,Laptops,Gaming,Predator X15
+50810,2024-03-26,403,7,10523,1,121.7,0.12,45.37,107.1,61.73,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50811,2024-09-07,302,5,10517,4,671.1,0.09,320.32,2442.8,1161.52,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50812,2024-05-27,103,6,10493,1,1067.08,0.15,620.39,907.02,286.63,Europe,Retail,Laptops,Business,ThinkPro 13
+50813,2024-03-12,401,5,10413,1,29.11,0.18,8,23.87,15.87,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50814,2024-04-05,403,5,10284,1,124.32,0.16,45.61,104.43,58.82,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50815,2024-06-10,202,2,10284,2,1237.06,0.23,694,1905.07,517.07,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50816,2024-08-18,402,8,10104,2,64.02,0.1,17.59,115.24,80.06,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50817,2024-11-13,102,7,10382,1,1530.19,0.17,931.97,1270.06,338.09,USA,Wholesale,Laptops,Gaming,Predator X15
+50818,2024-01-28,402,8,10156,1,58.36,0.16,17.74,49.02,31.28,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50819,2024-07-02,402,3,10687,1,62.4,0.17,17.66,51.79,34.13,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50820,2024-01-05,202,2,10697,1,1172.22,0.03,710.88,1137.05,426.17,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50821,2024-09-05,101,2,10283,1,1115.98,0.28,761.7,803.51,41.81,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50822,2024-03-10,102,7,10316,1,1417.58,0.11,981.14,1261.65,280.51,USA,Wholesale,Laptops,Gaming,Predator X15
+50823,2024-04-09,103,3,10273,1,1019.92,0.19,597.87,826.14,228.27,UK,Retail,Laptops,Business,ThinkPro 13
+50824,2024-07-15,302,7,10558,1,619.78,0.18,322.47,508.22,185.75,USA,Wholesale,Tablets,iPad,iPad Air 5
+50825,2024-10-14,101,5,10075,1,1214.56,0.18,774.19,995.94,221.75,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50826,2024-09-15,202,4,10230,1,1348.25,0.11,723.92,1199.94,476.02,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50827,2024-11-30,402,7,10497,1,62.8,0.12,18.66,55.26,36.6,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50828,2024-09-10,202,3,10451,1,1279.37,0.04,763.48,1228.2,464.72,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50829,2024-07-28,103,2,10668,1,916.21,0.11,625.22,815.43,190.21,UK,Retail,Laptops,Business,ThinkPro 13
+50830,2024-12-16,102,6,10298,2,1457.43,0.21,928.16,2302.74,446.42,Europe,Retail,Laptops,Gaming,Predator X15
+50831,2024-09-08,402,3,10577,1,58.54,0.05,17.9,55.61,37.71,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50832,2024-07-31,301,2,10194,1,484.68,0.03,279.28,470.14,190.86,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50833,2024-12-29,201,7,10638,1,1241.5,0.13,678.37,1080.1,401.73,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50834,2024-08-15,103,4,10150,1,1003.64,0.23,642.63,772.8,130.17,USA,Wholesale,Laptops,Business,ThinkPro 13
+50835,2024-09-07,402,8,10586,2,63.54,0.02,17.39,124.54,89.76,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50836,2024-03-26,401,8,10420,1,30.35,0.09,8.38,27.62,19.24,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50837,2024-02-12,301,3,10376,2,524.06,0.08,283.97,964.27,396.33,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50838,2024-10-16,401,5,10193,1,30.26,0.06,7.72,28.44,20.72,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50839,2024-01-16,402,7,10165,2,60.94,0.24,17.52,92.63,57.59,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50840,2024-04-22,302,3,10369,1,591.04,0.03,319.79,573.31,253.52,UK,Retail,Tablets,iPad,iPad Air 5
+50841,2024-05-29,403,4,10698,5,137.88,0.09,46.45,627.35,395.1,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50842,2024-01-17,401,6,10494,1,31.78,0.23,8.37,24.47,16.1,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50843,2024-05-20,102,8,10372,4,1534.37,0.17,993.91,5094.11,1118.47,Europe,Partner Store,Laptops,Gaming,Predator X15
+50844,2024-04-25,202,5,10232,1,1269.97,0.14,722.54,1092.17,369.63,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50845,2024-10-02,103,4,10043,1,1081.67,0.14,614.96,930.24,315.28,USA,Wholesale,Laptops,Business,ThinkPro 13
+50846,2024-05-27,401,4,10486,1,30.01,0.16,7.96,25.21,17.25,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50847,2024-03-27,402,5,10503,2,59.12,0.13,17.66,102.87,67.55,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50848,2024-08-22,301,5,10471,1,494.78,0.14,265.11,425.51,160.4,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50849,2024-10-16,102,6,10655,2,1532.95,0.02,945.31,3004.58,1113.96,Europe,Retail,Laptops,Gaming,Predator X15
+50850,2024-09-10,401,6,10365,1,30.04,0.17,8.2,24.93,16.73,Europe,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50851,2024-10-08,102,4,10275,1,1536.11,0.19,947.73,1244.25,296.52,USA,Wholesale,Laptops,Gaming,Predator X15
+50852,2024-09-18,101,6,10080,2,1158.92,0.26,823.92,1715.2,67.36,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50853,2024-02-27,403,8,10637,1,129.22,0.15,44.5,109.84,65.34,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50854,2024-10-20,103,8,10459,1,1027.11,0.08,600.16,944.94,344.78,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50855,2024-02-28,401,1,10465,1,30.49,0.13,7.96,26.53,18.57,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50856,2024-05-17,403,5,10225,2,122.34,0.05,44.48,232.45,143.49,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50857,2024-10-05,302,6,10341,1,577.91,0.16,322.94,485.44,162.5,Europe,Retail,Tablets,iPad,iPad Air 5
+50858,2024-07-06,101,1,10260,2,1271.12,0.03,779.21,2465.97,907.55,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50859,2024-10-04,401,5,10440,2,24.8,0.09,8,45.14,29.14,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50860,2024-01-22,403,8,10556,1,128.84,0.05,44.7,122.4,77.7,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50861,2024-08-13,103,7,10050,1,969.95,0.05,608.72,921.45,312.73,USA,Wholesale,Laptops,Business,ThinkPro 13
+50862,2024-10-06,401,3,10053,1,28.92,0.29,7.93,20.53,12.6,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50863,2024-04-21,103,2,10124,1,1021.1,0.11,602.75,908.78,306.03,UK,Retail,Laptops,Business,ThinkPro 13
+50864,2024-08-05,201,4,10619,1,1276.19,0.22,660.4,995.43,335.03,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50865,2024-02-22,103,1,10529,1,970.12,0.13,605.01,844,238.99,Europe,Online,Laptops,Business,ThinkPro 13
+50866,2024-11-30,101,8,10040,1,1189.21,0,739.02,1189.21,450.19,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50867,2024-05-06,401,2,10656,1,31.28,0.27,8.28,22.83,14.55,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50868,2024-06-01,202,5,10322,1,1310.19,0.01,709.18,1297.09,587.91,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50869,2024-01-17,101,2,10265,1,1245.75,0,751.13,1245.75,494.62,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50870,2024-08-18,403,1,10276,1,150.63,0.18,44.89,123.52,78.63,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50871,2024-05-14,201,8,10575,2,1159.96,0.01,703.19,2296.72,890.34,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50872,2024-06-27,402,3,10509,2,59.55,0.1,17.65,107.19,71.89,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50873,2024-02-14,403,3,10253,1,121.97,0.03,46.26,118.31,72.05,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50874,2024-08-12,103,1,10589,1,1054.95,0.18,601.56,865.06,263.5,Europe,Online,Laptops,Business,ThinkPro 13
+50875,2024-03-01,103,8,10189,1,975.17,0.04,632.03,936.16,304.13,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50876,2024-05-01,301,5,10030,1,486.26,0.17,269.8,403.6,133.8,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50877,2024-04-17,202,8,10589,1,1317.39,0.12,740.78,1159.3,418.52,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50878,2024-10-28,402,2,10405,1,62.16,0.11,17.58,55.32,37.74,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50879,2024-12-18,401,1,10127,1,28.76,0.2,7.71,23.01,15.3,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50880,2024-06-28,402,1,10697,1,54.5,0.09,17.05,49.6,32.55,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50881,2024-12-29,403,4,10143,1,125.42,0.14,44.37,107.86,63.49,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50882,2024-11-08,302,4,10373,1,670.71,0.05,325.52,637.17,311.65,USA,Wholesale,Tablets,iPad,iPad Air 5
+50883,2024-11-19,102,6,10369,1,1622.72,0.08,922.26,1492.9,570.64,Europe,Retail,Laptops,Gaming,Predator X15
+50884,2024-08-07,202,5,10321,1,1190.77,0.07,779.11,1107.42,328.31,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50885,2024-03-25,101,1,10394,1,1234.66,0.09,710.33,1123.54,413.21,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50886,2024-11-11,202,2,10530,1,1315.86,0.08,758.12,1210.59,452.47,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50887,2024-03-12,103,4,10226,2,969.1,0.12,584.45,1705.62,536.72,USA,Wholesale,Laptops,Business,ThinkPro 13
+50888,2024-04-15,202,5,10329,1,1378.74,0.05,710.64,1309.8,599.16,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50889,2024-04-15,302,4,10560,1,591.11,0.21,324.05,466.98,142.93,USA,Wholesale,Tablets,iPad,iPad Air 5
+50890,2024-01-31,101,3,10408,1,1220.33,0.29,761.43,866.43,105,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50891,2024-10-18,201,2,10441,1,1172.11,0.1,670.45,1054.9,384.45,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50892,2024-06-28,201,2,10408,2,1170.59,0.05,692.59,2224.12,838.94,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50893,2024-09-29,402,5,10136,1,56.23,0.04,18,53.98,35.98,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50894,2024-05-23,401,1,10308,1,28.81,0.15,8.1,24.49,16.39,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50895,2024-11-01,201,7,10254,1,1102.18,0.18,647.16,903.79,256.63,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50896,2024-10-02,402,1,10575,1,60.59,0.1,17.61,54.53,36.92,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50897,2024-03-27,202,5,10629,1,1273.39,0.15,755.66,1082.38,326.72,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50898,2024-06-14,101,3,10352,1,1132.98,0.01,765.72,1121.65,355.93,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50899,2024-12-26,101,4,10428,1,1156.33,0.07,760.91,1075.39,314.48,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50900,2024-05-29,401,1,10508,1,28.97,0.06,7.85,27.23,19.38,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50901,2024-05-28,102,5,10513,1,1501.86,0.13,913.3,1306.62,393.32,Asia,Partner Store,Laptops,Gaming,Predator X15
+50902,2024-10-20,201,7,10423,1,1181.03,0.07,678.91,1098.36,419.45,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50903,2024-05-16,401,3,10571,1,26.54,0.1,7.94,23.89,15.95,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50904,2024-09-20,402,3,10103,2,56.66,0.28,18.12,81.59,45.35,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50905,2024-12-13,402,1,10625,1,59.01,0.02,18.02,57.83,39.81,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+50906,2024-02-18,202,7,10657,2,1274.19,0.19,725.26,2064.19,613.67,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50907,2024-03-10,102,4,10418,1,1506.25,0.06,970.99,1415.88,444.89,USA,Wholesale,Laptops,Gaming,Predator X15
+50908,2024-07-29,103,1,10661,2,1013.7,0.1,632.97,1824.66,558.72,Europe,Online,Laptops,Business,ThinkPro 13
+50909,2024-01-31,202,1,10399,2,1150.06,0.03,679.92,2231.12,871.28,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50910,2024-05-21,401,4,10677,1,30,0.06,7.7,28.2,20.5,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50911,2024-12-01,101,4,10304,2,1171.24,0.19,766.21,1897.41,364.99,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50912,2024-03-05,202,4,10458,1,1258.2,0.21,731.6,993.98,262.38,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50913,2024-12-25,102,1,10607,1,1516.79,0.04,941.86,1456.12,514.26,Europe,Online,Laptops,Gaming,Predator X15
+50914,2024-03-08,302,3,10324,1,548.25,0.15,314.65,466.01,151.36,UK,Retail,Tablets,iPad,iPad Air 5
+50915,2024-05-07,101,3,10664,1,1179.06,0.13,746.45,1025.78,279.33,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50916,2024-03-15,101,2,10668,1,1229.82,0.11,712.88,1094.54,381.66,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50917,2024-12-30,302,7,10226,1,578.91,0.08,331.2,532.6,201.4,USA,Wholesale,Tablets,iPad,iPad Air 5
+50918,2024-06-13,202,3,10176,1,1338.33,0.03,693.9,1298.18,604.28,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50919,2024-05-06,301,8,10548,1,504.51,0.06,264.05,474.24,210.19,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50920,2024-12-12,301,8,10577,1,497.15,0.18,267.59,407.66,140.07,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50921,2024-07-20,402,6,10387,1,60.52,0.1,17.46,54.47,37.01,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50922,2024-09-07,202,7,10454,1,1175.14,0.08,756.43,1081.13,324.7,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50923,2024-03-13,402,6,10669,1,65.08,0.2,16.6,52.06,35.46,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50924,2024-10-22,402,3,10685,2,62.51,0.19,18.53,101.27,64.21,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50925,2024-11-19,201,8,10298,1,1108.21,0.01,721.26,1097.13,375.87,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50926,2024-05-17,302,4,10072,1,524.65,0.09,313.01,477.43,164.42,USA,Wholesale,Tablets,iPad,iPad Air 5
+50927,2024-11-17,401,1,10532,1,30.06,0.11,7.84,26.75,18.91,Europe,Online,Accessories,Smartphone Accessories,QuickCharge 30W
+50928,2024-07-31,402,7,10661,1,59.99,0.09,18.36,54.59,36.23,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50929,2024-07-11,402,4,10373,1,56.61,0.2,17.38,45.29,27.91,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50930,2024-08-19,402,2,10056,1,57.99,0.1,19.04,52.19,33.15,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50931,2024-02-08,402,6,10528,2,61.9,0.17,18.41,102.75,65.93,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50932,2024-11-20,301,3,10388,1,501.19,0.09,269.44,456.08,186.64,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50933,2024-02-17,301,1,10251,1,524.94,0.11,282.81,467.2,184.39,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50934,2024-07-25,401,2,10255,1,28.49,0.29,8.16,20.23,12.07,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50935,2024-09-20,401,8,10447,1,28.41,0.12,8.35,25,16.65,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50936,2024-05-22,103,5,10136,1,1113.96,0.07,625.19,1035.98,410.79,Asia,Partner Store,Laptops,Business,ThinkPro 13
+50937,2024-12-21,101,3,10659,1,1263.71,0.08,711.72,1162.61,450.89,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50938,2024-07-07,103,1,10104,1,992.98,0.07,603.76,923.47,319.71,Europe,Online,Laptops,Business,ThinkPro 13
+50939,2024-08-20,202,5,10153,2,1237.51,0.17,754.67,2054.27,544.93,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50940,2024-09-06,401,8,10554,1,30.9,0.15,8.14,26.26,18.12,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50941,2024-06-16,202,7,10464,2,1363.51,0.2,766.48,2181.62,648.66,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50942,2024-10-24,302,4,10499,1,628.63,0.23,339.85,484.05,144.2,USA,Wholesale,Tablets,iPad,iPad Air 5
+50943,2024-01-02,102,5,10571,1,1531.48,0.17,925.64,1271.13,345.49,Asia,Partner Store,Laptops,Gaming,Predator X15
+50944,2024-02-17,402,2,10375,1,59.79,0.15,17.7,50.82,33.12,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+50945,2024-08-22,101,4,10589,5,1251.95,0.08,770.33,5758.97,1907.32,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50946,2024-11-21,401,3,10447,2,30.21,0.2,8.36,48.34,31.62,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50947,2024-12-06,301,5,10257,1,500.4,0.09,269.19,455.36,186.17,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+50948,2024-12-23,402,7,10222,3,58.95,0.13,18.2,153.86,99.26,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+50949,2024-07-02,102,6,10649,1,1508.85,0.15,924.94,1282.52,357.58,Europe,Retail,Laptops,Gaming,Predator X15
+50950,2024-02-02,301,1,10435,2,531.21,0.03,267.49,1030.55,495.57,Europe,Online,Tablets,Android Tablet,TabMaster 11
+50951,2024-09-30,301,8,10680,1,538.41,0.18,273.4,441.5,168.1,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+50952,2024-07-22,101,5,10630,1,1258.25,0.01,725.35,1245.67,520.32,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50953,2024-04-21,201,5,10086,1,1223.46,0.16,681.71,1027.71,346,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50954,2024-08-07,401,3,10197,1,27.43,0.06,7.94,25.78,17.84,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50955,2024-04-18,402,8,10353,4,62.56,0.09,17.83,227.72,156.4,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50956,2024-09-10,401,5,10692,2,30.98,0.01,8.2,61.34,44.94,Asia,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50957,2024-05-17,401,3,10264,2,31.12,0.18,8.15,51.04,34.74,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50958,2024-06-14,201,4,10423,2,1135.64,0.19,660.87,1839.74,518,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50959,2024-05-25,102,8,10473,1,1531.54,0.07,962.44,1424.33,461.89,Europe,Partner Store,Laptops,Gaming,Predator X15
+50960,2024-06-21,201,1,10288,1,1264.02,0.03,689.61,1226.1,536.49,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+50961,2024-10-07,103,6,10062,1,1049.58,0.28,645.44,755.7,110.26,Europe,Retail,Laptops,Business,ThinkPro 13
+50962,2024-10-22,401,7,10256,1,29.39,0.07,8.15,27.33,19.18,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50963,2024-03-07,402,6,10216,2,62.98,0.24,18.5,95.73,58.73,Europe,Retail,Accessories,Tablet Accessories,TabCover Pro
+50964,2024-10-16,403,3,10214,1,137.18,0.18,44.44,112.49,68.05,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50965,2024-09-05,202,2,10518,1,1302.19,0.28,732.79,937.58,204.79,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50966,2024-06-24,102,3,10694,1,1596.64,0.2,955.34,1277.31,321.97,UK,Retail,Laptops,Gaming,Predator X15
+50967,2024-12-15,202,1,10289,1,1259.25,0.12,730.96,1108.14,377.18,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+50968,2024-01-25,401,4,10533,1,31.12,0.1,8.59,28.01,19.42,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50969,2024-01-24,401,8,10275,1,29.2,0.2,7.88,23.36,15.48,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50970,2024-02-20,202,5,10529,1,1253.09,0.17,729.08,1040.06,310.98,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50971,2024-11-16,403,8,10059,2,123.27,0.02,43.37,241.61,154.87,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50972,2024-08-23,301,2,10014,1,466.74,0.2,273.47,373.39,99.92,UK,Retail,Tablets,Android Tablet,TabMaster 11
+50973,2024-01-09,102,6,10160,2,1609.56,0.2,952.44,2575.3,670.42,Europe,Retail,Laptops,Gaming,Predator X15
+50974,2024-03-04,202,5,10641,2,1268.38,0.15,741.91,2156.25,672.43,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+50975,2024-03-21,201,5,10644,1,1170.39,0.19,679.45,948.02,268.57,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50976,2024-08-13,102,1,10577,1,1461.77,0.02,958.13,1432.53,474.4,Europe,Online,Laptops,Gaming,Predator X15
+50977,2024-08-21,201,2,10594,1,1202.35,0.16,676.45,1009.97,333.52,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+50978,2024-01-01,101,3,10048,3,1118.24,0.04,750.08,3220.53,970.29,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+50979,2024-08-07,102,6,10567,1,1385.75,0.23,951.04,1067.03,115.99,Europe,Retail,Laptops,Gaming,Predator X15
+50980,2024-04-13,101,8,10582,1,1231.1,0.07,733.03,1144.92,411.89,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50981,2024-12-18,403,6,10204,5,133.47,0.1,48.3,600.62,359.12,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+50982,2024-03-08,202,6,10649,1,1268.47,0.06,762.72,1192.36,429.64,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+50983,2024-11-28,201,8,10043,1,1251.19,0.07,716.62,1163.61,446.99,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+50984,2024-06-03,103,8,10394,1,1071.5,0.19,615.42,867.92,252.5,Europe,Partner Store,Laptops,Business,ThinkPro 13
+50985,2024-03-22,402,8,10026,1,64.41,0.1,17.29,57.97,40.68,Europe,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50986,2024-05-20,301,6,10647,1,506.93,0.03,280.74,491.72,210.98,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+50987,2024-02-17,202,4,10488,1,1281.38,0.14,708.36,1101.99,393.63,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+50988,2024-12-01,202,2,10614,2,1298.16,0.04,741.54,2492.47,1009.39,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+50989,2024-07-03,302,5,10564,1,562.01,0.11,328.64,500.19,171.55,Asia,Partner Store,Tablets,iPad,iPad Air 5
+50990,2024-05-08,402,5,10335,1,57.07,0.17,18.5,47.37,28.87,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+50991,2024-02-12,401,8,10045,1,31.52,0.17,7.79,26.16,18.37,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+50992,2024-07-09,101,5,10141,1,1201.18,0.06,763.9,1129.11,365.21,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+50993,2024-12-06,101,1,10573,1,1101.38,0,733.44,1101.38,367.94,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+50994,2024-11-28,401,3,10358,1,30.38,0.27,7.95,22.18,14.23,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+50995,2024-03-25,201,7,10615,2,1279.16,0.1,678.02,2302.49,946.45,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+50996,2024-01-27,101,4,10117,1,1172.35,0.18,748.29,961.33,213.04,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+50997,2024-07-21,301,4,10576,2,533.89,0.13,268.25,928.97,392.47,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+50998,2024-11-16,401,4,10632,1,30.27,0.22,8.14,23.61,15.47,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+50999,2024-06-05,102,1,10064,1,1557.56,0.07,936.08,1448.53,512.45,Europe,Online,Laptops,Gaming,Predator X15
+51000,2024-12-24,102,1,10083,2,1443.54,0.12,992.53,2540.63,555.57,Europe,Online,Laptops,Gaming,Predator X15
+51001,2024-04-29,403,4,10511,1,131,0.07,43.31,121.83,78.52,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51002,2024-08-07,403,4,10613,1,125.61,0.16,46.53,105.51,58.98,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51003,2024-12-01,102,4,10397,1,1566.42,0.24,918.79,1190.48,271.69,USA,Wholesale,Laptops,Gaming,Predator X15
+51004,2024-02-16,403,7,10264,1,115.41,0.13,46.24,100.41,54.17,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51005,2024-12-26,403,3,10386,1,123.28,0.11,45.19,109.72,64.53,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51006,2024-02-18,101,1,10037,1,1187.3,0.15,780,1009.2,229.2,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51007,2024-01-01,102,4,10620,1,1590.13,0.22,944.63,1240.3,295.67,USA,Wholesale,Laptops,Gaming,Predator X15
+51008,2024-04-19,202,3,10248,1,1314.72,0.11,738.71,1170.1,431.39,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51009,2024-09-01,103,8,10674,2,966.48,0.19,603.25,1565.7,359.2,Europe,Partner Store,Laptops,Business,ThinkPro 13
+51010,2024-02-09,301,3,10093,1,476.6,0.21,261.71,376.51,114.8,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51011,2024-03-08,401,3,10026,1,29.15,0.13,7.63,25.36,17.73,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+51012,2024-10-30,102,2,10166,2,1481.16,0.27,943.56,2162.49,275.37,UK,Retail,Laptops,Gaming,Predator X15
+51013,2024-04-25,103,4,10079,1,1041.19,0.1,622.4,937.07,314.67,USA,Wholesale,Laptops,Business,ThinkPro 13
+51014,2024-09-22,302,7,10049,1,634.83,0.19,311.49,514.21,202.72,USA,Wholesale,Tablets,iPad,iPad Air 5
+51015,2024-12-14,102,3,10323,1,1443.57,0.26,953.31,1068.24,114.93,UK,Retail,Laptops,Gaming,Predator X15
+51016,2024-08-15,102,4,10256,1,1705.01,0.16,950.59,1432.21,481.62,USA,Wholesale,Laptops,Gaming,Predator X15
+51017,2024-01-05,202,2,10634,1,1261.42,0.1,742.09,1135.28,393.19,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51018,2024-01-05,103,2,10640,1,1024.01,0.2,600.96,819.21,218.25,UK,Retail,Laptops,Business,ThinkPro 13
+51019,2024-12-22,101,8,10015,1,1174.35,0.02,712.3,1150.86,438.56,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+51020,2024-06-24,403,2,10116,1,134.01,0.22,45.55,104.53,58.98,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51021,2024-03-02,103,1,10338,1,1054.15,0.05,650.06,1001.44,351.38,Europe,Online,Laptops,Business,ThinkPro 13
+51022,2024-08-04,402,2,10188,2,63.14,0.2,17.92,101.02,65.18,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+51023,2024-12-21,201,5,10003,1,1293.24,0.1,689.95,1163.92,473.97,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51024,2024-03-08,201,3,10556,2,1211.4,0.08,652.55,2228.98,923.88,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+51025,2024-09-01,103,5,10423,1,1029.09,0.14,638.58,885.02,246.44,Asia,Partner Store,Laptops,Business,ThinkPro 13
+51026,2024-02-06,102,8,10525,1,1453.95,0.04,962.25,1395.79,433.54,Europe,Partner Store,Laptops,Gaming,Predator X15
+51027,2024-04-27,101,2,10429,1,1229.5,0.14,747.25,1057.37,310.12,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51028,2024-07-15,301,4,10193,2,481.25,0.09,274.77,875.88,326.34,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51029,2024-02-15,102,3,10676,5,1424.02,0.23,963.12,5482.48,666.88,UK,Retail,Laptops,Gaming,Predator X15
+51030,2024-02-22,302,6,10554,2,618.67,0.28,313.45,890.88,263.98,Europe,Retail,Tablets,iPad,iPad Air 5
+51031,2024-02-22,103,6,10250,2,943.57,0.07,615.97,1755.04,523.1,Europe,Retail,Laptops,Business,ThinkPro 13
+51032,2024-06-09,301,4,10211,1,415.05,0.25,274.38,311.29,36.91,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51033,2024-07-07,101,4,10099,2,1301.46,0.15,736.22,2212.48,740.04,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+51034,2024-06-02,101,8,10152,1,1071.96,0.04,756.28,1029.08,272.8,Europe,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+51035,2024-03-11,102,5,10649,2,1566.1,0.03,949.41,3038.23,1139.41,Asia,Partner Store,Laptops,Gaming,Predator X15
+51036,2024-07-14,202,8,10462,1,1379.53,0.02,718.12,1351.94,633.82,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51037,2024-03-09,202,3,10490,1,1323.03,0.05,745.36,1256.88,511.52,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51038,2024-11-24,102,1,10264,2,1563.66,0.13,953.58,2720.77,813.61,Europe,Online,Laptops,Gaming,Predator X15
+51039,2024-12-12,403,3,10226,2,141.35,0.12,43.23,248.78,162.32,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51040,2024-03-14,403,4,10641,2,124.58,0.24,44.73,189.36,99.9,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51041,2024-02-05,103,7,10293,1,1098.61,0.06,621.04,1032.69,411.65,USA,Wholesale,Laptops,Business,ThinkPro 13
+51042,2024-09-28,202,1,10398,1,1332.3,0.08,701.75,1225.72,523.97,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+51043,2024-10-15,101,2,10330,2,1098.77,0.23,765.36,1692.11,161.39,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51044,2024-01-05,101,1,10475,1,1155.25,0.06,744.11,1085.94,341.83,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51045,2024-11-08,201,8,10561,1,1100.75,0.01,700.54,1089.74,389.2,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51046,2024-11-28,301,4,10060,1,513.14,0.09,278.36,466.96,188.6,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51047,2024-03-25,101,7,10005,1,1269.83,0.16,745.34,1066.66,321.32,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+51048,2024-08-13,201,1,10640,1,1270.74,0.11,663.07,1130.96,467.89,Europe,Online,Smartphones,Android,Galaxy S24 Ultra
+51049,2024-06-28,103,7,10066,2,949.29,0.06,603.65,1784.67,577.37,USA,Wholesale,Laptops,Business,ThinkPro 13
+51050,2024-04-19,102,1,10089,1,1523.27,0.14,908.17,1310.01,401.84,Europe,Online,Laptops,Gaming,Predator X15
+51051,2024-11-17,202,2,10695,1,1381.2,0.17,698.82,1146.4,447.58,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51052,2024-03-18,103,2,10340,4,1004.68,0.01,658.07,3978.53,1346.25,UK,Retail,Laptops,Business,ThinkPro 13
+51053,2024-07-29,201,7,10223,2,1057.06,0.19,675.6,1712.44,361.24,USA,Wholesale,Smartphones,Android,Galaxy S24 Ultra
+51054,2024-11-11,301,1,10648,1,491.23,0.19,265.5,397.9,132.4,Europe,Online,Tablets,Android Tablet,TabMaster 11
+51055,2024-12-17,302,3,10651,2,624.69,0.07,327.99,1161.92,505.94,UK,Retail,Tablets,iPad,iPad Air 5
+51056,2024-08-14,302,1,10563,1,589.96,0.04,327.08,566.36,239.28,Europe,Online,Tablets,iPad,iPad Air 5
+51057,2024-04-21,403,1,10192,1,127.44,0.16,43.48,107.05,63.57,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51058,2024-02-14,201,8,10057,1,1178.14,0.04,630.33,1131.01,500.68,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51059,2024-02-21,202,8,10011,1,1301.52,0.06,733.68,1223.43,489.75,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51060,2024-03-12,401,2,10123,1,31.24,0,8.02,31.24,23.22,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+51061,2024-03-04,401,7,10332,1,30.87,0.09,8.15,28.09,19.94,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+51062,2024-10-28,103,8,10149,1,949.34,0.1,615.04,854.41,239.37,Europe,Partner Store,Laptops,Business,ThinkPro 13
+51063,2024-07-15,202,5,10568,1,1270.3,0.03,707.1,1232.19,525.09,Asia,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51064,2024-06-28,402,5,10492,1,58.57,0.05,18.89,55.64,36.75,Asia,Partner Store,Accessories,Tablet Accessories,TabCover Pro
+51065,2024-08-07,401,8,10263,1,30.87,0.2,7.65,24.7,17.05,Europe,Partner Store,Accessories,Smartphone Accessories,QuickCharge 30W
+51066,2024-06-10,103,4,10192,1,1030.1,0.09,609.28,937.39,328.11,USA,Wholesale,Laptops,Business,ThinkPro 13
+51067,2024-03-12,302,5,10340,1,601.85,0.12,323.1,529.63,206.53,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51068,2024-05-06,102,3,10186,2,1442.39,0.02,976.86,2827.08,873.36,UK,Retail,Laptops,Gaming,Predator X15
+51069,2024-05-21,103,6,10329,1,954.96,0.13,625.11,830.82,205.71,Europe,Retail,Laptops,Business,ThinkPro 13
+51070,2024-11-26,402,4,10631,1,55.22,0.14,18.3,47.49,29.19,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+51071,2024-02-13,302,4,10387,3,585.2,0.07,315.38,1632.71,686.57,USA,Wholesale,Tablets,iPad,iPad Air 5
+51072,2024-05-07,403,5,10166,1,132.13,0.08,47.56,121.56,74,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51073,2024-10-10,302,5,10538,2,616.58,0.09,322.42,1122.18,477.34,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51074,2024-11-03,101,1,10162,1,1235.28,0.18,752.16,1012.93,260.77,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51075,2024-11-03,401,4,10289,1,29.09,0.13,8.01,25.31,17.3,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+51076,2024-11-07,403,5,10524,1,132.12,0.07,44.78,122.87,78.09,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51077,2024-05-25,101,3,10011,1,1247.08,0.13,726.71,1084.96,358.25,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51078,2024-12-19,101,1,10245,1,1129.91,0.19,754.05,915.23,161.18,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51079,2024-01-14,403,7,10190,1,123.76,0.16,43.77,103.96,60.19,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51080,2024-12-03,402,3,10592,1,57.85,0.06,17.34,54.38,37.04,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+51081,2024-06-03,102,2,10110,2,1558.88,0.13,888.16,2712.45,936.13,UK,Retail,Laptops,Gaming,Predator X15
+51082,2024-04-15,401,3,10160,1,30.99,0.16,8.32,26.03,17.71,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+51083,2024-09-22,402,4,10191,1,57.83,0.1,17.66,52.05,34.39,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+51084,2024-11-06,302,7,10210,1,601.87,0.06,351.3,565.76,214.46,USA,Wholesale,Tablets,iPad,iPad Air 5
+51085,2024-09-17,101,3,10642,1,1191.64,0.26,752.77,881.81,129.04,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51086,2024-04-06,302,7,10421,1,636.43,0.24,288.35,483.69,195.34,USA,Wholesale,Tablets,iPad,iPad Air 5
+51087,2024-07-19,302,8,10565,1,584.82,0.02,312.72,573.12,260.4,Europe,Partner Store,Tablets,iPad,iPad Air 5
+51088,2024-05-31,302,3,10450,1,569.99,0.08,309.12,524.39,215.27,UK,Retail,Tablets,iPad,iPad Air 5
+51089,2024-11-26,301,2,10189,1,475.32,0,274.24,475.32,201.08,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51090,2024-01-28,302,5,10221,1,618.34,0.09,313.05,562.69,249.64,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51091,2024-05-02,302,8,10243,1,565,0.17,320.61,468.95,148.34,Europe,Partner Store,Tablets,iPad,iPad Air 5
+51092,2024-09-10,402,3,10433,1,58.74,0.28,17.9,42.29,24.39,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+51093,2024-07-16,202,7,10490,1,1334.3,0.19,725.07,1080.78,355.71,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+51094,2024-02-27,202,4,10271,1,1254.35,0.1,710.9,1128.92,418.02,USA,Wholesale,Smartphones,iOS,iPhone 15 Pro
+51095,2024-05-03,401,2,10612,1,31.52,0.17,7.82,26.16,18.34,UK,Retail,Accessories,Smartphone Accessories,QuickCharge 30W
+51096,2024-09-12,103,7,10598,1,1109.35,0.12,625.66,976.23,350.57,USA,Wholesale,Laptops,Business,ThinkPro 13
+51097,2024-11-22,103,4,10336,2,1050.37,0.06,628.1,1974.7,718.5,USA,Wholesale,Laptops,Business,ThinkPro 13
+51098,2024-10-31,101,3,10004,1,1116.36,0.07,763.57,1038.21,274.64,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51099,2024-02-06,103,7,10697,1,989.25,0.11,612.13,880.43,268.3,USA,Wholesale,Laptops,Business,ThinkPro 13
+51100,2024-09-27,301,5,10417,1,530.06,0.13,270.35,461.15,190.8,Asia,Partner Store,Tablets,Android Tablet,TabMaster 11
+51101,2024-01-07,301,7,10117,1,489.62,0.13,262.88,425.97,163.09,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51102,2024-07-03,101,1,10005,1,1179.74,0.14,719.98,1014.58,294.6,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51103,2024-06-11,102,1,10195,1,1357.2,0.02,1007.67,1330.06,322.39,Europe,Online,Laptops,Gaming,Predator X15
+51104,2024-03-08,102,7,10275,1,1522.76,0.16,1005.89,1279.12,273.23,USA,Wholesale,Laptops,Gaming,Predator X15
+51105,2024-07-17,301,7,10163,2,516.2,0.05,273.46,980.78,433.86,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51106,2024-10-18,201,5,10125,2,1291.75,0.19,671.3,2092.64,750.04,Asia,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51107,2024-08-03,202,1,10032,1,1227.73,0.04,733.75,1178.62,444.87,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+51108,2024-07-06,103,2,10576,1,1030.77,0.21,599.27,814.31,215.04,UK,Retail,Laptops,Business,ThinkPro 13
+51109,2024-10-06,202,6,10119,1,1304.69,0.05,718.03,1239.46,521.43,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+51110,2024-12-15,201,8,10094,1,1229.22,0.1,670.8,1106.3,435.5,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51111,2024-03-29,301,3,10027,1,450.37,0.12,272.79,396.33,123.54,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51112,2024-08-29,402,4,10534,1,57.17,0.1,18.59,51.45,32.86,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+51113,2024-02-07,302,4,10566,2,613.44,0.15,318.35,1042.85,406.15,USA,Wholesale,Tablets,iPad,iPad Air 5
+51114,2024-01-09,102,4,10025,1,1394.76,0.08,987.15,1283.18,296.03,USA,Wholesale,Laptops,Gaming,Predator X15
+51115,2024-10-27,101,3,10343,1,1221.31,0.03,789.72,1184.67,394.95,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51116,2024-02-04,301,2,10605,1,494.52,0.23,258.26,380.78,122.52,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51117,2024-01-08,102,2,10163,1,1546.16,0.13,922.8,1345.16,422.36,UK,Retail,Laptops,Gaming,Predator X15
+51118,2024-05-14,301,7,10670,2,482.61,0.06,280.63,907.31,346.05,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51119,2024-04-20,102,5,10155,1,1570.18,0.03,958.3,1523.07,564.77,Asia,Partner Store,Laptops,Gaming,Predator X15
+51120,2024-01-21,103,1,10487,5,951.53,0.03,628.78,4614.92,1471.02,Europe,Online,Laptops,Business,ThinkPro 13
+51121,2024-01-31,202,2,10491,2,1293.51,0.01,719.73,2561.15,1121.69,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51122,2024-07-22,302,6,10648,1,590.06,0.24,310.09,448.45,138.36,Europe,Retail,Tablets,iPad,iPad Air 5
+51123,2024-09-16,302,4,10351,1,607.81,0.07,315.25,565.26,250.01,USA,Wholesale,Tablets,iPad,iPad Air 5
+51124,2024-05-26,202,1,10239,2,1313.37,0.11,747.19,2337.8,843.42,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+51125,2024-11-17,301,7,10433,1,489.73,0.12,263.62,430.96,167.34,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51126,2024-12-30,301,1,10421,1,463.8,0.1,271.72,417.42,145.7,Europe,Online,Tablets,Android Tablet,TabMaster 11
+51127,2024-09-13,103,7,10361,4,901.86,0.15,611.6,3066.32,619.92,USA,Wholesale,Laptops,Business,ThinkPro 13
+51128,2024-07-31,101,2,10009,1,1056.13,0.14,744.31,908.27,163.96,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51129,2024-08-04,101,1,10013,1,1183.63,0.09,752.32,1077.1,324.78,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51130,2024-12-25,102,4,10140,1,1602.77,0.22,955.35,1250.16,294.81,USA,Wholesale,Laptops,Gaming,Predator X15
+51131,2024-07-24,202,3,10002,1,1348.68,0.14,736.37,1159.86,423.49,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51132,2024-02-12,302,6,10529,1,551.56,0.24,317.15,419.19,102.04,Europe,Retail,Tablets,iPad,iPad Air 5
+51133,2024-11-23,202,3,10647,1,1339.8,0.18,765.24,1098.64,333.4,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51134,2024-10-01,301,7,10007,1,517.61,0.23,281.27,398.56,117.29,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51135,2024-10-02,402,2,10585,1,59.21,0.12,19.04,52.1,33.06,UK,Retail,Accessories,Tablet Accessories,TabCover Pro
+51136,2024-11-11,301,8,10446,1,482.8,0.02,269.43,473.14,203.71,Europe,Partner Store,Tablets,Android Tablet,TabMaster 11
+51137,2024-03-19,103,3,10332,1,1066.12,0.29,619.8,756.95,137.15,UK,Retail,Laptops,Business,ThinkPro 13
+51138,2024-05-22,401,7,10359,1,31,0.24,7.98,23.56,15.58,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+51139,2024-02-12,403,1,10375,1,122.6,0.05,47.63,116.47,68.84,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51140,2024-06-07,403,6,10630,1,133.29,0.3,44.1,93.3,49.2,Europe,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51141,2024-02-10,202,6,10477,2,1348.77,0.15,785.57,2292.91,721.77,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+51142,2024-09-18,301,2,10431,2,524.03,0.08,268.89,964.22,426.44,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51143,2024-04-14,301,7,10094,1,508.13,0.17,277.04,421.75,144.71,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51144,2024-03-20,102,2,10120,1,1443.54,0.17,919.78,1198.14,278.36,UK,Retail,Laptops,Gaming,Predator X15
+51145,2024-10-01,101,5,10588,1,1278.89,0.16,753.69,1074.27,320.58,Asia,Partner Store,Laptops,Ultrabook,ZenBook Pro 14
+51146,2024-06-16,403,5,10657,1,141.24,0.16,43.37,118.64,75.27,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51147,2024-07-19,103,4,10640,1,928.86,0.12,639.92,817.4,177.48,USA,Wholesale,Laptops,Business,ThinkPro 13
+51148,2024-10-27,302,1,10344,1,644.1,0.17,325.26,534.6,209.34,Europe,Online,Tablets,iPad,iPad Air 5
+51149,2024-11-20,403,5,10550,1,136.17,0.15,45.43,115.74,70.31,Asia,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51150,2024-11-28,403,4,10115,1,138.44,0.09,47.3,125.98,78.68,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51151,2024-12-14,302,5,10099,1,591.42,0.12,328.37,520.45,192.08,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51152,2024-11-25,301,3,10580,1,477.45,0.27,265.71,348.54,82.83,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51153,2024-02-03,101,1,10557,1,1133.33,0.02,772.16,1110.66,338.5,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51154,2024-06-07,301,7,10370,1,490.72,0.12,277.75,431.83,154.08,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51155,2024-12-23,302,4,10011,1,588.66,0.2,323.4,470.93,147.53,USA,Wholesale,Tablets,iPad,iPad Air 5
+51156,2024-08-11,202,3,10689,2,1312.38,0.27,751.68,1916.07,412.71,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51157,2024-05-02,102,8,10496,1,1614.97,0.01,877.1,1598.82,721.72,Europe,Partner Store,Laptops,Gaming,Predator X15
+51158,2024-01-30,102,4,10116,2,1527.82,0.16,946.78,2566.74,673.18,USA,Wholesale,Laptops,Gaming,Predator X15
+51159,2024-05-05,302,4,10209,1,590.31,0.13,298.18,513.57,215.39,USA,Wholesale,Tablets,iPad,iPad Air 5
+51160,2024-02-14,402,1,10144,1,56.87,0.05,18.2,54.03,35.83,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+51161,2024-08-10,403,4,10530,1,129.24,0.17,46.28,107.27,60.99,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51162,2024-02-29,401,7,10447,1,30.28,0.12,7.88,26.65,18.77,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+51163,2024-08-20,403,7,10152,1,123.08,0.11,43.46,109.54,66.08,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51164,2024-11-09,302,5,10483,1,579.02,0.17,334.67,480.59,145.92,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51165,2024-11-07,202,8,10041,2,1321.11,0.18,732.38,2166.62,701.86,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51166,2024-01-29,301,6,10607,1,497.74,0.27,277.13,363.35,86.22,Europe,Retail,Tablets,Android Tablet,TabMaster 11
+51167,2024-06-07,402,7,10289,1,56.62,0.1,18.19,50.96,32.77,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+51168,2024-12-07,102,5,10266,1,1593.79,0.11,963.58,1418.47,454.89,Asia,Partner Store,Laptops,Gaming,Predator X15
+51169,2024-12-02,403,3,10291,1,123.55,0.2,46.56,98.84,52.28,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51170,2024-03-30,202,8,10179,1,1229.26,0.02,745.23,1204.67,459.44,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51171,2024-03-02,301,4,10045,1,517.64,0.19,267.12,419.29,152.17,USA,Wholesale,Tablets,Android Tablet,TabMaster 11
+51172,2024-01-07,102,6,10201,1,1521.84,0.11,926.88,1354.44,427.56,Europe,Retail,Laptops,Gaming,Predator X15
+51173,2024-12-28,403,4,10503,1,136.94,0.15,42.8,116.4,73.6,USA,Wholesale,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51174,2024-03-11,101,3,10094,1,1203.67,0.17,766.83,999.05,232.22,UK,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51175,2024-12-25,103,6,10525,2,992.28,0.17,603.37,1647.18,440.44,Europe,Retail,Laptops,Business,ThinkPro 13
+51176,2024-01-06,401,4,10137,2,29.7,0.06,7.87,55.84,40.1,USA,Wholesale,Accessories,Smartphone Accessories,QuickCharge 30W
+51177,2024-03-24,101,1,10449,1,1082.13,0.09,723.14,984.74,261.6,Europe,Online,Laptops,Ultrabook,ZenBook Pro 14
+51178,2024-09-11,102,5,10125,1,1474.68,0.09,917.48,1341.96,424.48,Asia,Partner Store,Laptops,Gaming,Predator X15
+51179,2024-06-26,301,3,10651,1,482.61,0.24,261.9,366.78,104.88,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51180,2024-09-24,103,7,10468,1,900.9,0.14,641.56,774.77,133.21,USA,Wholesale,Laptops,Business,ThinkPro 13
+51181,2024-09-21,402,1,10327,2,59.77,0.12,16.92,105.2,71.36,Europe,Online,Accessories,Tablet Accessories,TabCover Pro
+51182,2024-05-12,403,1,10566,1,140.69,0.18,48.72,115.37,66.65,Europe,Online,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51183,2024-03-26,301,2,10056,1,522.85,0.14,287.21,449.65,162.44,UK,Retail,Tablets,Android Tablet,TabMaster 11
+51184,2024-07-09,202,6,10523,1,1252.75,0.23,777.97,964.62,186.65,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+51185,2024-03-05,102,8,10050,2,1494.15,0.13,928.8,2599.82,742.22,Europe,Partner Store,Laptops,Gaming,Predator X15
+51186,2024-05-17,201,2,10473,1,1319.41,0.29,666.13,936.78,270.65,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+51187,2024-03-01,403,8,10670,1,132.47,0.06,44.56,124.52,79.96,Europe,Partner Store,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51188,2024-01-16,202,2,10188,1,1283.7,0.14,744.33,1103.98,359.65,UK,Retail,Smartphones,iOS,iPhone 15 Pro
+51189,2024-06-20,403,2,10633,2,122.7,0.09,42.81,223.31,137.69,UK,Retail,Accessories,Laptop Accessories,USB-C Dock 8-in-1
+51190,2024-08-07,302,5,10331,1,612.14,0.1,323.07,550.93,227.86,Asia,Partner Store,Tablets,iPad,iPad Air 5
+51191,2024-05-19,202,6,10598,2,1230.14,0.07,753.72,2288.06,780.62,Europe,Retail,Smartphones,iOS,iPhone 15 Pro
+51192,2024-09-25,102,3,10128,1,1568.3,0.07,884.72,1458.52,573.8,UK,Retail,Laptops,Gaming,Predator X15
+51193,2024-02-02,201,2,10526,2,1177.79,0.28,656.78,1696.02,382.46,UK,Retail,Smartphones,Android,Galaxy S24 Ultra
+51194,2024-05-14,402,7,10066,1,61.51,0.1,17.62,55.36,37.74,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro
+51195,2024-12-30,202,1,10508,1,1340.28,0,758.12,1340.28,582.16,Europe,Online,Smartphones,iOS,iPhone 15 Pro
+51196,2024-10-22,101,4,10655,2,1217.31,0.08,721.71,2239.85,796.43,USA,Wholesale,Laptops,Ultrabook,ZenBook Pro 14
+51197,2024-11-17,201,8,10569,1,1263.79,0.11,664.86,1124.77,459.91,Europe,Partner Store,Smartphones,Android,Galaxy S24 Ultra
+51198,2024-02-09,202,8,10390,1,1246.66,0.01,744.98,1234.19,489.21,Europe,Partner Store,Smartphones,iOS,iPhone 15 Pro
+51199,2024-09-11,101,6,10239,5,1174.15,0.11,724.29,5224.97,1603.52,Europe,Retail,Laptops,Ultrabook,ZenBook Pro 14
+51200,2024-08-21,402,7,10386,1,58.67,0.09,17.76,53.39,35.63,USA,Wholesale,Accessories,Tablet Accessories,TabCover Pro

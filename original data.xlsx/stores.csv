@@ -1,0 +1,9 @@
+store_id,store_name,region,channel
+1,TechMart Online,Europe,Online
+2,TechMart London,UK,Retail
+3,TechMart Manchester,UK,Retail
+4,TechMart NY Warehouse,USA,Wholesale
+5,TechPartner Asia,Asia,Partner Store
+6,TechMart Berlin,Europe,Retail
+7,TechMart LA Warehouse,USA,Wholesale
+8,TechPartner EU,Europe,Partner Store
